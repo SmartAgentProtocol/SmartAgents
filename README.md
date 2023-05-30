@@ -1,5 +1,5 @@
 # Core
-Core Software Containing Auth-GPT, LLMs, Extensions &amp; Memory 
+Core Smart Agent Software Containing Auth-GPT, LLMs, Extensions &amp; Memory 
 
 Smart Agents
 Building Open Source AGI With Humans At Its Heart
