@@ -145,7 +145,7 @@ Freedom of Association: All those using Smart Agents maintain their independence
 ## Credit, References, & Sources:
 Auto-GPT: https://github.com/Significant-Gravitas/Auto-GPT
 Shapeshift Wallet: https://github.com/shapeshift/hdwallet
-Shapershift Token Swaps: https://tinyurl.com/j6c8na65
+Shapeshift Token Swaps: https://tinyurl.com/j6c8na65
 Shapeshift Earn: https://tinyurl.com/ycxummd6
 Chat based LLM LLaMA:  https://github.com/openlm-research/open_llama
 Image Diffusion Model: https://github.com/CompVis/stable-diffusion
