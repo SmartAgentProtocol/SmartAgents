@@ -4,7 +4,7 @@ Building Open Source AI With Humans At The Heart
 
 -Community Paper Written In Public As A Living Document-
 
-#Introduction:
+## Introduction:
 Smart Agent is a term to describe a general purpose AI that acts according to the goals of an individual human. This is achieved by connecting the user’s Web3 wallets to Large Language Models (LLMs), so that the Smart Agent can take actions on behalf of the user.
 
 Your Smart Agent is an extension of you. It acts according to your instructions, leverages your wallet & data to benefit you. Your Smart Agent is controlled by your Web3 private keys as you authorize actions for it to take.
