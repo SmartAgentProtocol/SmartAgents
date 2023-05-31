@@ -1,4 +1,4 @@
-# Core
+# Smart Agent Core Software
 Smart Agents
 Building Open Source AI With Humans At The Heart
 
