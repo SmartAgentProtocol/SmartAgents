@@ -1,5 +1,5 @@
 # Smart Agent Core Software
-Smart Agents
+
 Building Open Source AI With Humans At The Heart
 
 -Community Paper Written In Public As A Living Document-
