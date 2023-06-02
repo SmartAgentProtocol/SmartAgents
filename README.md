@@ -157,8 +157,11 @@ Auto-GPT: https://github.com/Significant-Gravitas/Auto-GPT
 Shapeshift Wallet: https://github.com/shapeshift/hdwallet
 Shapeshift Token Swaps: https://tinyurl.com/j6c8na65
 Shapeshift Earn: https://tinyurl.com/ycxummd6
+Chat based LLM Falcon: https://huggingface.co/tiiuae/falcon-40b/blob/main/README.md
 Chat based LLM LLaMA:  https://github.com/openlm-research/open_llama
 Image Diffusion Model: https://github.com/CompVis/stable-diffusion
 Chrome Extensions for Auto-GPT: https://github.com/richardyc/Chrome-GPT
 Description of Tokenomics by Willy: https://t.co/lkRNmn1dZp?ssr=true
-Community chats with, David Johnston, Pedro Cruz, Scott Berenzweig, Willy Ogorzaly, Jacob Farber, Ryan Singer, Michael Perklin, Parul Gujral, Eric Olszewski, Greg Osuri, Yonatan Ben Shimon, Craig Sellars, Jeff McDonald, & Mehow. 
+
+## Community chats With: 
+David Johnston, Pedro Cruz, Scott Berenzweig, Erik Voorhees, Willy Ogorzaly, Jacob Farber, Ryan Singer, Michael Perklin, Parul Gujral, Eric Olszewski, Greg Osuri, Yonatan Ben Shimon, Craig Sellars, Jeff McDonald, & Michal "Mehow" Pospieszalski.
