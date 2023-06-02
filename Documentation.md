@@ -1,5 +1,5 @@
 ## Implementing Smart Agent Core Software Version 0.1
-## Dev Community Documentation -
+## Reference Implimentation & Documentation For Developer Community
 
 ## Steps For Implementation
 Package AutoGPT into a simple GUI, as the framework for plugins with Falcon or LLama LLMs for text generation as a default capability. For example include the first transactionID from the first Staking action into the download file of the core software so the Smart Agent knows where to look for chain interactions.
