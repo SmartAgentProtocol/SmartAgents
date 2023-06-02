@@ -61,6 +61,7 @@ Similarly the selection of which Web3 wallet used is also the choice of the user
 The Smart Agent Core software package can be installed on your local computer and comes with some basic default capabilities such as AutoGPT with LLaMa pre-installed and the ETH Staking program. Developers that contribute to this core software will gain part of the ETH yield from the Staking and other default programs running on the Core software. Thus creating an incentive for people to improve the Smart Agent itself. All code contributions merged into the project will be counted as weights in the distribution of rewards from the Core software.
 
 ## Simplified Diagram of Hello World Version of a Smart Agent
+<img width="613" alt="SimpliedDiagram20230530" src="https://github.com/SmartAIAgents/Core/assets/1563345/e275c835-bcf0-403f-b5ef-ef651326ea2c">
 
 https://github.com/Significant-Gravitas/Auto-GPT
 https://github.com/richardyc/Chrome-GPT
