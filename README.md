@@ -13,6 +13,8 @@ By putting the individual at the heart we move toward a resolution of the “ali
 
 These are the questions of our time. Will the most powerful AIs be run by a few large companies & governments with their goals in mind? Or will an open source based AI available to everyone built for the people and by the people succeed? This community is building a world where all free people have access to a Smart Agent working to better their lives.
 
+<img width="765" alt="Smart Agent Diagram 2023 06 02" src="https://github.com/SmartAIAgents/Core/assets/1563345/e4066d21-d44e-45e3-a553-85eeada7405e">
+
 ## The Line Between Smart Agents & Smart Contracts
 The line between the Smart Contract frame and the Smart Agent one is the active intelligence and the persistent connection to a person's data, tasks, goals, wallet and so forth.
 
