@@ -8,12 +8,6 @@ Include a list of smart agent contracts in the marketplace in the software packa
 
 Adding Task Specific Prompts for making your Smart Agent aware of and able to execute a specific task. Task Specific Prompt that can be included as a Smart Agent Improvement Proposal to the main Smart Agent software.
 
-## Examples of Smart Agent Improvements. 
-- SmartAgentImprovement #0. Prompt for connecting to wallet.
-- SmartAgentImprovement #1. Prompt for swapping / trading tokens.
-- SmartAgentImprovement #2 Prompt for Staking tokens.
-- SmartAgentImprovement #3 Prompt for adding tokens to the Liquidity Pool
-
 ## Smart Agent Tasks
 One of the core modules is based on the task.mstr file, which logs what the Smart Agents do for the Smart Agent Owner.  A task assigned to a Smart Agent is named with a .tsk extension.  i.e. StakeEth.tsk.  
 
