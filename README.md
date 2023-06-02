@@ -77,6 +77,13 @@ Development of Smart Agents should always be moving toward offering the user eve
 ## Smart Agent Contract Marketplace
 Since the Smart Agent has its own resources from the ETH Staking it carries a balance with which to purchase more modules, plug-ins, Dapps, referred to as “Smart Agent Contracts” in the open marketplace. These could be niche language models, image or video generators, DeFi plug-ins to earn yield – anything a Smart Agent Contract developer could imagine. The Web3 ID serves as the means to access to these programs and persistently show they have been licensed by a particular user’s Smart Agent. 
 
+## Human Alignment & Individual Alignment
+The core benefit of the Smart Agent approach is to deeply connect / tether their AI to peoples' private keys. It's truly the one thing AI cannot generate. Fundamental laws of physics limit the ability of any intelligence, human or AI to break strong encryption. This will become even more the case as the world moves to quantum based encryption where the security is ensured at an even higher level of confidence due to quantum observer effects. So with a proper implementation a Smart Agent’s actions should be provably human authorized. 
+
+The move to biometric and device based keys is important for this reason as private keys kept in digital text or a password keeper are far less secure. It's clear that in time, when a person is born the holding of a key generation ceremony by their parents and the securing of their digital identity will become critical and securing of physical authentication devices will become important to access and control vast amounts of their data and of their Smart Agent’s intelligence.
+
+Presuming this human / AI alignment is built into the Smart Agent architecture, the second question quickly follows “which humans” is it aligned to. By building the Smart Agents as open source and available to all, the answer becomes individual humans can connect their data & identity to a Smart Agent and access the same level of intelligence as the most powerful organizations in the world.
+
 ## Steps For Implementation
 Package AutoGPT into a simple GUI, as the framework for plugins with LLama for text generation as a default capability. For example include the first transactionID from the first Staking action into the download file of the core software so the Smart Agent knows where to look for on chain interactions.
 Deploy website that allows the user to connect their Web3 wallet (Metamask for example) to a Stake My ETH contract. Once the user Stakes some ETH, then they can download the Smart Agent Core Software. Ready to deploy.
