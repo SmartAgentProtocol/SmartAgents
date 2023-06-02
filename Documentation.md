@@ -9,10 +9,10 @@ Include a list of smart agent contracts in the marketplace in the software packa
 Adding Task Specific Prompts for making your Smart Agent aware of and able to execute a specific task. Task Specific Prompt that can be included as a Smart Agent Improvement Proposal to the main Smart Agent software.
 
 ## Examples of Smart Agent Improvements. 
-SmartAgentImprovement #0. Prompt for connecting to wallet.
-SmartAgentImprovement #1. Prompt for swapping / trading tokens.
-SmartAgentImprovement #2 Prompt for Staking tokens.
-SmartAgentImprovement #3 Prompt for adding tokens to the Liquidity Pool
+- SmartAgentImprovement #0. Prompt for connecting to wallet.
+- SmartAgentImprovement #1. Prompt for swapping / trading tokens.
+- SmartAgentImprovement #2 Prompt for Staking tokens.
+- SmartAgentImprovement #3 Prompt for adding tokens to the Liquidity Pool
 
 ## Smart Agent Tasks
 One of the core modules is based on the task.mstr file, which logs what the Smart Agents do for the Smart Agent Owner.  A task assigned to a Smart Agent is named with a .tsk extension.  i.e. StakeEth.tsk.  
@@ -29,9 +29,9 @@ The extent to which the Smart Agent Owner defines authorization is addressed bef
 The task’s solution should result in a benefit to the Smart Agent Owner, a percentage of that benefit is distributed to the modules, plug-ins, and Dapp developers (Intelligence Providers). 
 
 ## Examples of Recurring Daily Smart Agent Tasks: 
-Prompt: “Check my ETH address everyday for new transactions & report back to me with a list”
-Prompt: “Check my ETH Staking status everyday & report back the rewards & current APY”
-Prompt: “Check PromptRank.org everyday for the top 10 Prompts & report back a list”
+- Prompt: “Check my ETH address everyday for new transactions & report back to me with a list”
+- Prompt: “Check my ETH Staking status everyday & report back the rewards & current APY”
+- Prompt: “Check PromptRank.org everyday for the top 10 Prompts & report back a list”
 
 ## Software Packages To Be Used:
 - Auto-GPT: https://github.com/Significant-Gravitas/Auto-GPT
