@@ -34,12 +34,12 @@ Prompt: “Check my ETH Staking status everyday & report back the rewards & curr
 Prompt: “Check PromptRank.org everyday for the top 10 Prompts & report back a list”
 
 ## Software Packages To Be Used:
-Auto-GPT: https://github.com/Significant-Gravitas/Auto-GPT
-Shapeshift Wallet: https://github.com/shapeshift/hdwallet
-Shapershift Token Swaps: https://tinyurl.com/j6c8na65
-Shapeshift Earn: https://tinyurl.com/ycxummd6
-Chat based LLM Falcon: https://huggingface.co/tiiuae/falcon-40b/blob/main/README.md
-Chat based LLM LLaMA:  https://github.com/openlm-research/open_llama
-Image Diffusion Model: https://github.com/CompVis/stable-diffusion
-Chrome Extensions for Auto-GPT: https://github.com/richardyc/Chrome-GPT
-Description of Tokenomics by Willy: https://t.co/lkRNmn1dZp?ssr=true
+- Auto-GPT: https://github.com/Significant-Gravitas/Auto-GPT
+- Shapeshift Wallet: https://github.com/shapeshift/hdwallet
+- Shapershift Token Swaps: https://tinyurl.com/j6c8na65
+- Shapeshift Earn: https://tinyurl.com/ycxummd6
+- Chat based LLM Falcon: https://huggingface.co/tiiuae/falcon-40b/blob/main/README.md
+- Chat based LLM LLaMA:  https://github.com/openlm-research/open_llama
+- Image Diffusion Model: https://github.com/CompVis/stable-diffusion
+- Chrome Extensions for Auto-GPT: https://github.com/richardyc/Chrome-GPT
+- Description of Tokenomics by Willy: https://t.co/lkRNmn1dZp?ssr=true
