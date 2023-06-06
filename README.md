@@ -80,6 +80,8 @@ Development of Smart Agents should always be moving toward offering the user eve
 ## Smart Agent Contract Marketplace
 Since the Smart Agent has its own resources from the ETH Staking it carries a balance with which to purchase more modules, plug-ins, Dapps, referred to as “Smart Agent Contracts” in the open marketplace. These could be niche language models, image or video generators, DeFi plug-ins to earn yield – anything a Smart Agent Contract developer could imagine. The Web3 ID serves as the means to access to these programs and persistently show they have been licensed by a particular user’s Smart Agent. 
 
+<img width="805" alt="Incentive Model For Smart Agent Community 2023 06 03" src="https://github.com/SmartAIAgents/Core/assets/1563345/a82c15b1-c75d-4f32-ae34-e2f71d6b9f02">
+
 ## Human Alignment & Individual Alignment
 The core benefit of the Smart Agent approach is to deeply connect / tether their AI to peoples' private keys. It's truly the one thing AI cannot generate. Fundamental laws of physics limit the ability of any intelligence, human or AI to break strong encryption. This will become even more the case as the world moves to quantum based encryption where the security is ensured at an even higher level of confidence due to quantum observer effects. So with a proper implementation a Smart Agent’s actions should be provably human authorized. 
 
