@@ -8,6 +8,10 @@ Include a list of smart agent contracts in the marketplace in the software packa
 
 Adding Task Specific Prompts for making your Smart Agent aware of and able to execute a specific task. Task Specific Prompt that can be included as a Smart Agent Improvement Proposal to the main Smart Agent software.
 
+Week 2 Update from Pedro on FrontEnd:
+https://www.loom.com/share/13720bae0e594e59b0b062060fd31843
+Includes install instructures for the current version as of June 7th 2023
+
 ## Smart Agent Tasks
 One of the core modules is based on the task.mstr file, which logs what the Smart Agents do for the Smart Agent Owner.  A task assigned to a Smart Agent is named with a .tsk extension.  i.e. StakeEth.tsk.  
 
