@@ -166,4 +166,4 @@ Chrome Extensions for Auto-GPT: https://github.com/richardyc/Chrome-GPT
 Description of Tokenomics by Willy: https://t.co/lkRNmn1dZp?ssr=true
 
 ## Community chats With: 
-David Johnston, Pedro Cruz, Scott Berenzweig, Erik Voorhees, Willy Ogorzaly, Jacob Farber, Ryan Singer, Michael Perklin, Parul Gujral, Eric Olszewski, Greg Osuri, Yonatan Ben Shimon, Craig Sellars, Jeff McDonald, & Michal "Mehow" Pospieszalski.
+David Johnston, Pedro Cruz, Scott Berenzweig, Erik Voorhees, Willy Ogorzaly, Jacob Farber, Ryan Singer, Michael Perklin, Parul Gujral, Eric Olszewski, Greg Osuri, Yonatan Ben Shimon, Craig Sellars, Jeff McDonald, Michal "Mehow" Pospieszalski & anonymous reviewers.
