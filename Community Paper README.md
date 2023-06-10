@@ -132,7 +132,7 @@ Smart Agent.app - Possible use for the marketplace for applications that extend 
 Reddit: https://www.reddit.com/r/SmartAgents/
 Github: https://github.com/SmartAIAgents
 Twitter: https://twitter.com/SmartAIAgents
-Discord: https://discord.gg/zyUXYteh
+Discord: https://discord.gg/fZ8zvFSRSb
 Telegram: https://t.me/+TreIfW9DYhcyYWFj
 
 ## Design Elements: 
