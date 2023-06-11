@@ -1,13 +1,13 @@
 This is the first SmartAgent Improvement Proposal or "SIP 0" 
 
-The Smart Agenet Core Improvements should be driven by an open review process. 
+The Smart Agenet Improvements should be driven by an open review process. 
 
-All improvements should be code, prompts, functions that can be included in the "internal" code of the downloadable Smart Agent Core Software.
-They should generally extend the capabilities of the Smart Agent Core Software for example by adding specific Prompts for the Smart Agent to recognize when the user requests them.
+All improvements should be code, prompts, functions that can be included in the "internal" code of the downloadable Smart Agent Software.
+They should generally extend the capabilities of the Smart Agent Software for example by adding specific Prompts for the Smart Agent to recognize when the user requests them.
 
 The SIP should specify how to map this new prompt to cryptographically validated external Smart Contracts or APIs.
 
-## Examples of Smart Agent Core Improvement Proposals 
+## Examples of Smart Agent Improvement Proposals 
 - SIP #1. Defines prompt for connecting to wallet using "open connect".
 
 - SIP #2. Defines prompt for swapping / trading tokens using Shapeshift's open source library.
