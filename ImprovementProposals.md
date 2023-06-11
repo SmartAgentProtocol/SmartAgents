@@ -31,3 +31,9 @@ The SIP should specify how to map this new prompt to cryptographically validated
 - SIP #11 Define prompt audit this code for known bugs.
 
 - SIP #12 Define prompt for Degen mode : )
+
+- SIP #13 Define prompt for starting YouAI.AI style survey to personalize the Smart Agent LLM.
+
+- SIP #14 Define prompt for registering a Ethereum Name Service.
+
+- SIP #15 Define prompt for registering a FIO crypto handle.
