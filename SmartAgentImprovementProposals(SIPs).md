@@ -1,14 +1,15 @@
-This is the first SmartAgent Improvement Proposal or "SIP 0" 
+## SmartAgent Improvement Proposal or "SIP 0" 
 
-The Smart Agenet Improvements should be driven by an open review process. 
+The Smart Agenet Improvement Proposals (SIPs) start with an open review process, includes testings, and finally inclusion in a production version of the Smart Agents reference implimentation. 
 
-All improvements should be code, prompts, functions that can be included in the "internal" code of the downloadable Smart Agent Software.
-They should generally extend the capabilities of the Smart Agent Software for example by adding specific Prompts for the Smart Agent to recognize when the user requests them.
+All SIPs should define a specific prompt and the code connected to it and included in the "internal" code of the downloadable Smart Agent binary install package. They should generally extend the capabilities of the Smart Agent Software for example by adding specific Prompts for the Smart Agent to recognize when the user requests them.
 
 The SIP should specify how to map this new prompt to cryptographically validated external Smart Contracts or APIs.
 
 ## Examples of Smart Agent Improvement Proposals 
 - SIP #1. Defines prompt for connecting to wallet using "open connect".
+Prompt Triggers: Connect, Connect Wallet, Connect Web3 Wallet, Connect MetaMask, Open Connect.
+Code Leveraged: Open Connect & MetaMask calls from Back End file.    
 
 - SIP #2. Defines prompt for swapping / trading tokens using Shapeshift's open source library.
 
