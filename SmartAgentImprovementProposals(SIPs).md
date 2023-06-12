@@ -8,8 +8,10 @@ The SIP should specify how to map this new prompt to cryptographically validated
 
 ## Examples of Smart Agent Improvement Proposals 
 - SIP #1. Defines prompt for connecting to wallet using "open connect".
+
 Prompt Triggers: Connect, Connect Wallet, Connect Web3 Wallet, Connect MetaMask, Open Connect.
-Code Leveraged: Open Connect & MetaMask calls from Back End file.    
+
+Code Leveraged: Open Connect & MetaMask calls from Back End file. https://github.com/SmartAIAgents/SmartAgents/blob/main/backend/src/components/ConnectWallet.tsx    
 
 - SIP #2. Defines prompt for swapping / trading tokens using Shapeshift's open source library.
 
