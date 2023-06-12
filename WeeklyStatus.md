@@ -1,11 +1,10 @@
 ## Notes on Weekly Status From Community 
 
-- Week 1 May 28th 2023: Hacked on front end and got basic GPT Chat style interface live and hook ups done for OpenAI.
+- Week 1 May 28th 2023: Pedro, Scott and David hacked on front end and got basic GPT Chat style interface live and hook ups done for OpenAI.
 
-- Week 2 June 4th 2023: Hacked on front end and mapped actions such Staking, Swaps, and Wallet Connect to prompts with color coded action buttons.
+- Week 2 June 4th 2023: Pedro, Scott & David hacked on front end and mapped actions such Staking, Swaps, and Wallet Connect to prompts with color coded action buttons.
 
-- Week 3 June 11th 2023: Update Week 3:
-Tech talk & hacking session with Scott, Pedro, Mohan, Luke and David. 
+- Week 3 June 11th 2023: Tech talk & hacking session with Scott, Pedro, Mohan, Luke and David. 
 
 A. Pedro and Scott advanced the Front End & Back End connection work. See updates to Github.
 https://github.com/SmartAIAgents/SmartAgents
