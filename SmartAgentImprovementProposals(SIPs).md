@@ -15,7 +15,7 @@ All SIPs should include:
 
 - A link to cryptographically validated external Smart Contracts or APIs.
 
-## Smart Agent Improvement Proposals In Development
+## Smart Agent Improvement Proposals Coded & Ready For Candidate Release
 - SIP #1. Connecting A Web3 Wallet
 
 Defines the Task Specific Prompt for the "open connect" code for the user to select a wallet to connect to their Smart Agent.
@@ -24,6 +24,8 @@ Prompt Keywords: Connect, Connect Wallet, Connect Web3 Wallet, Connect MetaMask,
 
 Code Leveraged: Open Connect & MetaMask calls from Back End file. https://github.com/SmartAIAgents/SmartAgents/blob/main/backend/src/components/ConnectWallet.tsx    
 
+## Smart Agent Improvement Proposals In Development
+
 - SIP #2. Defines prompt for swapping / trading tokens using Shapeshift's open source library.
 
 - SIP #3 Defines prompt for Earning yield on tokens using Shapeshift's open source library.
@@ -31,6 +33,8 @@ Code Leveraged: Open Connect & MetaMask calls from Back End file. https://github
 - SIP #4 Defines prompt for adding tokens to a liquidity Pool using Shapeshift's open source library.
 
 - SIP #5 Defines prompt for Staking tokens using Lido's tool set.
+
+## Smart Agent Improvement Proposals Concepts
 
 - SIP #6 Defines prompt for paying user for their data using Rainfall's protocol.
 
