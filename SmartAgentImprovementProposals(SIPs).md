@@ -1,15 +1,25 @@
 ## SmartAgent Improvement Proposal or "SIP 0" 
 
-The Smart Agenet Improvement Proposals (SIPs) start with an open review process, includes testings, and finally inclusion in a production version of the Smart Agents reference implimentation. 
+The Smart Agenet Improvement Proposals (SIPs) start with an open review process, includes testings, and finally inclusion in a production version of the Smart Agents reference implimentation. Proposals should generally extend the capabilities of the Smart Agent's software for example by adding specific Prompts for the Smart Agent to recognize when the user requests them. Proposals that are finished with development, will be included for testing in the next candidate software version.
 
-All SIPs should define a specific prompt and the code connected to it and included in the "internal" code of the downloadable Smart Agent binary install package. They should generally extend the capabilities of the Smart Agent Software for example by adding specific Prompts for the Smart Agent to recognize when the user requests them.
+# All SIPs should include:
 
-The SIP should specify how to map this new prompt to cryptographically validated external Smart Contracts or APIs.
+- A "task specific prompt" should be defined with a few keywords or phrases to trigger the action.
+
+- Code called from or included in the "internal" code of the downloadable Smart Agent binary install package.
+
+- A pulbically verifiable digital signature from author of the code, version number, and open source license details.  
+
+- A link to the Smart Contract, Dapp, Wallet, or Blockchain's website, paper, or documentation for training of the Smart Agent's LLM weights.
+
+- A link to cryptographically validated external Smart Contracts or APIs.
 
 ## Examples of Smart Agent Improvement Proposals 
-- SIP #1. Defines prompt for connecting to wallet using "open connect".
+- SIP #1. Connecting A Web3 Wallet
 
-Prompt Triggers: Connect, Connect Wallet, Connect Web3 Wallet, Connect MetaMask, Open Connect.
+Defines the Task Specific Prompt for the "open connect" code for the user to select a wallet to connect to their Smart Agent.
+
+Prompt Keywords: Connect, Connect Wallet, Connect Web3 Wallet, Connect MetaMask, Open Connect.
 
 Code Leveraged: Open Connect & MetaMask calls from Back End file. https://github.com/SmartAIAgents/SmartAgents/blob/main/backend/src/components/ConnectWallet.tsx    
 
