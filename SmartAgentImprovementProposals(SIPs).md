@@ -1,5 +1,6 @@
-# SmartAgent Improvement Proposal or "SIP 0" 
+# SmartAgent Improvement Proposal or SIPs
 
+##  SIP 0 Defines How To Write A SmartAgent Improvement Proposal 
 The Smart Agenet Improvement Proposals (SIPs) start with an open review process, includes testings, and finally inclusion in a production version of the Smart Agents reference implimentation. Proposals should generally extend the capabilities of the Smart Agent's software for example by adding specific Prompts for the Smart Agent to recognize when the user requests them. Proposals that are finished with development, will be included for testing in the next candidate software version.
 
 ## All SIPs should include:
@@ -14,7 +15,7 @@ The Smart Agenet Improvement Proposals (SIPs) start with an open review process,
 
 - A link to cryptographically validated external Smart Contracts or APIs.
 
-## Examples of Smart Agent Improvement Proposals 
+## Smart Agent Improvement Proposals In Development
 - SIP #1. Connecting A Web3 Wallet
 
 Defines the Task Specific Prompt for the "open connect" code for the user to select a wallet to connect to their Smart Agent.
