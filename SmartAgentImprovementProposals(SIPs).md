@@ -8,7 +8,7 @@ The Smart Agenet Improvement Proposals (SIPs) start with an open review process,
 
 - Code called from or included in the "internal" code of the downloadable Smart Agent binary install package.
 
-- A pulbically verifiable digital signature from author of the code, version number, and open source license details.  
+- A pulbically verifiable digital signature from author of the code, version number, date, and link to the open source license details.  
 
 - A link to the Smart Contract, Dapp, Wallet, or Blockchain's website, paper, or documentation for training of the Smart Agent's LLM weights.
 
