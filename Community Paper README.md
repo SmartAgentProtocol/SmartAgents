@@ -45,21 +45,22 @@ For Smart Agents we can use the term Intelligence Providers (IPs) that contribut
 ## Intelligence Providers (all open source defaults):
 LangChain, Shapeshift Wallet, Shapershift Token Swaps, Shapeshift Earn, Chat based LLM Falcon, Chat based LLM LLaMA, Stable Diffusion Image Generator.
 
-LangChain: https://docs.langchain.com/docs/
-Shapeshift Wallet: https://github.com/shapeshift/hdwallet
-Shapershift Token Swaps: https://tinyurl.com/j6c8na65
-Shapeshift Earn: https://tinyurl.com/ycxummd6
-Chat based LLM LLaMA:  https://github.com/openlm-research/open_llama
-Image Diffusion Model: https://github.com/CompVis/stable-diffusion
+- LangChain: https://docs.langchain.com/docs/
+- Shapeshift Wallet: https://github.com/shapeshift/hdwallet
+- Shapershift Token Swaps: https://tinyurl.com/j6c8na65
+- Shapeshift Earn: https://tinyurl.com/ycxummd6
+- Chat based LLM LLaMA:  https://github.com/openlm-research/open_llama
+- Image Diffusion Model: https://github.com/CompVis/stable-diffusion
 
 ## The Software Stack
 The Smart Agent program will be downloaded locally and come configured with AutoGPT which makes it simple to add different LLMs or connect data sources to make your Smart Agent more useful. Capabilities of AutoGPT include: https://github.com/Significant-Gravitas/Auto-GPT
-🌐 Internet access for searches and information gathering
-💾 Long-term and short-term memory management
-🧠 GPT-4 instances for text generation
-🔗 Access to popular websites and platforms
-🗃️ File storage and summarization with GPT-3.5
-🔌 Extensibility with Plugins
+- 🌐 Internet access for searches and information gathering
+- 💾 Long-term and short-term memory management
+- 🧠 GPT-4 instances for text generation
+- 🔗 Access to popular websites and platforms
+- 🗃️ File storage and summarization with GPT-3.5
+- 🔌 Extensibility with Plugins
+
 Similarly the selection of which Web3 wallet used is also the choice of the user. The key in the framework is the standardized way the Wallet, the LLMs, and the modules all work together.
 
 ## The Smart Agent Protocol
@@ -72,6 +73,7 @@ The presumption is that there is a significant cross section of early adopters o
 
 ## Next Improvements To Research
 First limitation to overcome will be the dependence on OpenAI / GPT4 due to it not being open source and requiring the user to pay a monthly bill and lack of privacy of the data. Having an Open Source LLM option pre-installed such as LLaMa may work for this purpose. Same with a pre-installed image generator such as Stable Diffusion. That would also benefit the persistence of the Smart Agent as it will continue to function with open source LLMs as a back up if the user’s OpenAI keys expire. The trade off will be a heavier load on the local compute and storage resource, which depending on the LLM model size may be significant.
+
 https://github.com/openlm-research/open_llama
 https://github.com/CompVis/stable-diffusion
 
@@ -95,11 +97,17 @@ Deploy website that allows the user to connect their Web3 wallet (Metamask for e
 
 Include a list of smart agent contracts in the marketplace in the software package so the user can add these programs to their Smart Agent.
 
-## Examples of Smart Agent Improvements. 
-SmartAgentImprovement #0. Prompt for connecting to wallet.
-SmartAgentImprovement #1. Prompt for swapping / trading tokens.
-SmartAgentImprovement #2 Prompt for Staking tokens.
-SmartAgentImprovement #3 Prompt for adding tokens to the Liquidity Pool
+## SmartAgent Improvements Proposals Under Development. 
+- SIP #2. Defines prompt for swapping / trading tokens using Shapeshift's open source library.
+
+- SIP #3 Defines prompt for Earning yield on tokens using Shapeshift's open source library.
+
+- SIP #4 Defines prompt for adding tokens to a liquidity Pool using Shapeshift's open source library.
+
+- SIP #5 Defines prompt for Staking tokens using Lido's tool set.
+
+Full List of SmartAgent Improvement Proposals can be read here. 
+https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SmartAgentImprovementProposals(SIPs).md
 
 ## Smart Agent Tasks
 One of the modules is based on the task.mstr file, which logs what the Smart Agents do for the Smart Agent Owner.  A task assigned to a Smart Agent is named with a .tsk extension.  i.e. StakeEth.tsk.  
@@ -115,22 +123,17 @@ The extent to which the Smart Agent Owner defines authorization is addressed bef
 
 The task’s solution should result in a benefit to the Smart Agent Owner, a percentage of that benefit is distributed to the modules, plug-ins, and Dapp developers (Intelligence Providers). 
 
-## Examples of Recurring Daily Smart Agent Tasks. 
-Prompt: “Check my ETH address everyday for new transactions & report back to me with a list”
-Prompt: “Check my ETH Staking status everyday & report back the rewards & current APY”
-Prompt: “Check PromptRank.org everyday for the top 10 Prompts & report back a list”
-
 ## Community Websites / Social Channels Under Development:
-SmartAgents.App - Website that runs Smart Agent Web App
-SmartAgents.ETH - Place for Ethereum specific Smart Agent content.
-SmartAgents.Dev - Website to download the Smart Agent software
-SmartAgentRank.com (list like CoinGecko but for ranking popular Smart Contracts / Dapps used by Smart Agents)
+- SmartAgents.App - Website that runs Smart Agent Web App
+- SmartAgents.ETH - Place for Ethereum specific Smart Agent content.
+- SmartAgents.Dev - Website to download the Smart Agent software
+- SmartAgentRank.com (list like CoinGecko but for ranking popular Smart Contracts / Dapps used by Smart Agents)
 
-Reddit: https://www.reddit.com/r/SmartAgents/
-Github: https://github.com/SmartAgentProtocol/SmartAgents
-Twitter: https://twitter.com/SmartAIAgents
-Discord: https://discord.gg/fZ8zvFSRSb
-Telegram: https://t.me/+TreIfW9DYhcyYWFj
+- Reddit: https://www.reddit.com/r/SmartAgents/
+- Github: https://github.com/SmartAgentProtocol/SmartAgents
+- Twitter: https://twitter.com/SmartAIAgents
+- Discord: https://discord.gg/fZ8zvFSRSb
+- Telegram: https://t.me/+TreIfW9DYhcyYWFj
 
 ## Design Elements: 
 Merging Human & Machine Intelligence. Advanced. Futuristic. Optimistic.
@@ -157,16 +160,16 @@ The agent can create its own GPG key with which to encrypt and decrypt locally-s
 - Freedom of Association: All those using Smart Agents maintain their independence and freedom of association. 
 
 ## Credit, References, & Sources:
-LangChain: https://docs.langchain.com/docs/
-Shapeshift Wallet: https://github.com/shapeshift/hdwallet
-Shapeshift Token Swaps: https://tinyurl.com/j6c8na65
-Shapeshift Earn: https://tinyurl.com/ycxummd6
-Chat based LLM Falcon: https://huggingface.co/tiiuae/falcon-40b/blob/main/README.md
-Image Diffusion Model: https://github.com/CompVis/stable-diffusion
-Description of Tokenomics by Willy: https://t.co/lkRNmn1dZp?ssr=true
+- LangChain: https://docs.langchain.com/docs/
+- Shapeshift Wallet: https://github.com/shapeshift/hdwallet
+- Shapeshift Token Swaps: https://tinyurl.com/j6c8na65
+- Shapeshift Earn: https://tinyurl.com/ycxummd6
+- Chat based LLM Falcon: https://huggingface.co/tiiuae/falcon-40b/blob/main/README.md
+- Image Diffusion Model: https://github.com/CompVis/stable-diffusion
+- Description of Tokenomics by Willy: https://t.co/lkRNmn1dZp?ssr=true
 
 ## Community chats With: 
-David Johnston, Pedro Cruz, Scott Berenzweig, Erik Voorhees, Willy Ogorzaly, Jonathan Mohan, Jacob Farber, Ryan Singer, Michael Perklin, Parul Gujral, Eric Olszewski, Greg Osuri, Yonatan Ben Shimon, Craig Sellars, Jeff McDonald, Luke Stokes, Michal Pospieszalski & anonymous contributors.
+David Johnston, Pedro Cruz, Scott Berenzweig, Erik Voorhees, Willy Ogorzaly, Jonathan Mohan, Jacob Farber, Ryan Singer, Michael Perklin, Parul Gujral, Eric Olszewski, Greg Osuri, Yonatan Ben Shimon, Craig Sellars, Jeff McDonald, Michal Pospieszalski, Luke Stokes & anonymous contributors.
 
 ## Governance:
 There is no formal governance. There is no company. There is no foundation. It's all open source code. As long as Freedom of Speech & personal property rights exist, this is the way. The simple guiding principle is to "be excellent to each other".
