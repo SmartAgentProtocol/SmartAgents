@@ -1,4 +1,4 @@
-# SmartAgent Improvement Proposal or SIPs
+# SmartAgent Improvement Proposals or SIPs
 
 ##  SIP 0 Defines How To Write A SmartAgent Improvement Proposal 
 The Smart Agenet Improvement Proposals (SIPs) start with an open review process, include testings, and finally inclusion in a production version of the Smart Agents reference implimentation. Proposals should generally extend the capabilities of the Smart Agent's software for example by adding specific Prompts for the Smart Agent to recognize when the user requests them. Proposals that are finished with development, will be included for testing in the next candidate software version.
