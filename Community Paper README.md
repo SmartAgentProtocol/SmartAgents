@@ -123,7 +123,8 @@ The extent to which the Smart Agent Owner defines authorization is addressed bef
 
 The task’s solution should result in a benefit to the Smart Agent Owner, a percentage of that benefit is distributed to the modules, plug-ins, and Dapp developers (Intelligence Providers). 
 
-## Community Websites / Social Channels Under Development:
+## Websites / Social Channels Under Development:
+- ChatWeb3 - Web interface for users & leverage Web3 via chat
 - [SmartAgents.App](https://www.smartagents.app/) - Website that runs Smart Agent Web App
 - [SmartAgents.ETH](https://app.ens.domains/smartagents.eth) - Place for Ethereum specific Smart Agent content
 - [PromptRank.org](https://www.promptrank.org/) - Like CoinGecko but for ranking popular Smart Agent actions called by prompt
