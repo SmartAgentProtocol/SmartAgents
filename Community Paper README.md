@@ -9,7 +9,7 @@ Smart Agent is a term to describe a general purpose AI that acts according to th
 
 Your Smart Agent is an extension of you. It acts according to your instructions, leverages your wallet & data to benefit you. Your Smart Agent is controlled by your Web3 private keys as you authorize actions for it to take.
 
-From a Web3 developer perspective, Smart Agents act as a neutral protocol that provides a native AI chat interface to Web3 Smart Contracts, Dapps, Wallets, and public blockchains. Similar to how Ethereum provided a generalized platform for Smart Contracts, IPFS provides a standard data framework & ChainLink provides oracles, Smart Agents provide developers the easiest human to machine interface. All of sudden your users can tell the Smart Agent what they want to do and it acts on their behalf, fully aware of the universe of Web3 Smart Contracts and tools at its disposal.
+From a Web3 developer perspective, Smart Agents act as a neutral protocol that provides a native AI chat interface to Web3 Smart Contracts, Dapps, Wallets, and public blockchains. Similar to how Ethereum provided a generalized platform for Smart Contracts, IPFS provides a standard data framework & ChainLink provides oracles. Smart Agents provide developers the easiest human to machine interface, natural language based chat. All of sudden your users can tell the Smart Agent what they want to do and it acts on their behalf, fully aware of the universe of Web3 Smart Contracts and tools at its disposal.
 
 <img width="766" alt="SmartAgentDiagram20230612" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/b46014a5-704a-4c45-bd81-280016161d65">
 
