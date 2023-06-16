@@ -34,24 +34,35 @@ Code Leveraged: Open Connect & MetaMask calls from Back End file. https://github
 
 - SIP #5 Defines prompt for Staking tokens using Lido's tool set.
 
-## Smart Agent Improvement Proposals Concepts
-
 - SIP #6 Defines prompt for paying user for their data using Rainfall's protocol.
 
 - SIP #7 Defines prompt for generating images with Stable Diffusion.
 
-- SIP #8 Define prompt for coding a website.
+- SIP #8 Defines prompt for writting related tasks with Falcon LLM.
 
-- SIP #9 Define prompt creating a NFT.
+- SIP #9 Defines prompt for creating a To Do List.
 
-- SIP #10 Define prompt for finding info on an NFT.
+- SIP #10 Define prompt for writing a press release.
 
-- SIP #11 Define prompt audit this code for known bugs.
+- SIP #11 Define prompt for writing a resume.
 
-- SIP #12 Define prompt for Degen mode : )
+- SIP #12 Define prompt for writing a blog post.
 
-- SIP #13 Define prompt for starting YouAI.AI style survey to personalize the Smart Agent LLM.
 
-- SIP #14 Define prompt for registering a Ethereum Name Service.
+## Smart Agent Improvement Proposals Concepts
 
-- SIP #15 Define prompt for registering a FIO crypto handle.
+- SIP #13 Define prompt for coding a function.
+
+- SIP #14 Define prompt creating a NFT.
+
+- SIP #15 Define prompt for finding info on an NFT.
+
+- SIP #16 Define prompt audit this code for known bugs.
+
+- SIP #17 Define prompt for Degen mode : )
+
+- SIP #18 Define prompt for starting YouAI.AI style survey to personalize the Smart Agent LLM.
+
+- SIP #19 Define prompt for registering a Ethereum Name Service.
+
+- SIP #20 Define prompt for registering a FIO crypto handle.
