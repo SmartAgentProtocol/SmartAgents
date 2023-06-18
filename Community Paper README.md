@@ -34,6 +34,11 @@ This way the Smart Agent developer community building up the capabilities of the
 
 There is a great thread by Willy from Shapeshift on this topic of the best way to create these types of “Opt Out” fees. https://t.co/lkRNmn1dZp?ssr=true
 
+## Governance:
+Every member of the community is free to configure their Smart Agent in any way they choose. Developers are free to offer new prompts, Smart Contracts, Wallets, LLMs & other functions to the Smart Agent community without seeking any permission. Rather than relying on a few core developers to pick and choose the prompts and functions of a Smart Agent, we trust the users & independent developers to decide.
+
+To be clear. There is no formal governance. There is no company. There is no foundation. There is no “team”. It's all open source code written and contributed by independent parties.
+
 ## The Economic Model of Smart Agents - Introducing IPs (Intelligence Providers)
 Users used to pay for software with money or their data.
 Now with Smart Agents the software earns money for the user.
@@ -171,9 +176,6 @@ The agent can create its own GPG key with which to encrypt and decrypt locally-s
 
 ## Community chats With: 
 David Johnston, Pedro Cruz, Scott Berenzweig, Erik Voorhees, Willy Ogorzaly, Jonathan Mohan, Jacob Farber, Ryan Singer, Michael Perklin, Parul Gujral, Eric Olszewski, Greg Osuri, Yonatan Ben Shimon, Craig Sellars, Jeff McDonald, Michal Pospieszalski, Luke Stokes & anonymous contributors.
-
-## Governance:
-There is no formal governance. There is no company. There is no foundation. It's all open source code. As long as Freedom of Speech & personal property rights exist, this is the way. The simple guiding principle is to "be excellent to each other".
 
 ## Phases of Smart Agent Development:
 
