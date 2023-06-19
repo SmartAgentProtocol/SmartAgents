@@ -33,7 +33,7 @@ Specific Keywords / Tokens Related To The Prompt's Text Generate A List Via KeyW
 KeyWeb3LLM is an enhancement dataset added to the Smart Agent Protocol, which was trained weekly on Web3 datasets of all smart contracts & blockchains.
 
 ## Step #5: (During User Interaction): 
-User enters prompt.
+User enters a prompt.
 Result: KeyWeb3LLM determined Contracts A, B, C, & D are most related to the user Prompt.
 
 ## Step #5: (During User Interaction): 
@@ -45,7 +45,7 @@ KeyWeb3LLM list is ranked by the Smart Scores = Prompt Rank Output:
 
 ## Observations
 Prompt Rank put in first place the Smart Contract with the second highest Dapps Score and the second highest Weighted Score.
-This seems a desirable outcome. The user's Smart Agent is presenting them with high usage & low risk options. This reduces the visability of Smart Contracts that may be inflating their transaction count, but are centrally controlled / risky.
+This seems a desirable outcome. The user's Smart Agent is presenting them with high usage & low risk options. This reduces the visibility of Smart Contracts that may be inflating their transaction count, but are centrally controlled / risky.
 
 ## Tools For Building Prompt Rank:
 The Graph protocol can be used to query data from both Layer 1’s and Smart Contracts. Create A Graph of Smart Contracts to Prompt Keywords & Phrases. Existing database of Smart Contracts. Person types in a Prompt at ChatWe3.org’s website. They are presented with a list of Smart Contracts that do what they requested. If the Smart Contract offers a referral fee / donation mechanism, then use those fees to cover the gas costs for the user seamlessly, and pay out the remainder as a donation to the Smart Agent community. PromptRank.org website for devs to call the API running the prompt rank database. Of course user selection and Smart Agent transactions can add weight to the Smart Contract scores over time.
