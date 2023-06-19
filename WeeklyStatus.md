@@ -16,3 +16,10 @@ C. Added a Contributor Guidelines section to Github.
 https://github.com/SmartAIAgents/SmartAgents/blob/main/ContributorGuidelines.md
 
 D. Added more detail to the SmartAgents Improvement Proposals section, which has now been expanded to 15 proposals and is coming into more focus with the Definition of Prompts and their mapping to particular code / tool for execution. https://github.com/SmartAIAgents/SmartAgents/blob/main/ContributorGuidelines.md
+
+- Week 4 June 18th 2023: In depth Discussion of how to deal with ranking the presentation of Smart Contracts to the User.
+Resolution was the development of the Prompt Rank paper. https://github.com/SmartAgentProtocol/SmartAgents/blob/main/Prompt%20Rank.md
+
+Definition: The Prompt Rank algorithm creates a graph of the relationships between prompts from users & Smart Contracts. The output is a ranked list of Smart Contracts that a Smart Agent can interact with based on the user’s choice. By tallying the number of Smart Contracts conducting transactions with other Smart Contracts this generates a first “usage score” for all Smart Contracts. Then you run the algorithm again and calculate the “weighted score” based on the score of each Smart Contract added to the total number of transactions of all their connected Smart Contracts. Finally user selections will add more weights over time.
+
+Hopefully this will provide the software a fair, dynamic, and scalable way to deal with thousands of different Smart Contracts as users prompt their Smart Agent on a wide variety of actions. This approach is a change from the idea of Prompts as Name Spaces to be claimed to defined statically as Task Specific Prompts.
