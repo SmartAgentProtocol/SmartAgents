@@ -36,7 +36,7 @@ KeyWeb3LLM is an enhancement dataset added to the Smart Agent Protocol, which wa
 User enters prompt.
 Result: KeyWeb3LLM determined Contracts A, B, C, & D are most related to the user Prompt.
 
-## Step #5: (During User Interaction): 
+## Step #6: (During User Interaction): 
 KeyWeb3LLM list is ranked by the Smart Scores = Prompt Rank Output:
 - Rank #1 Smart Contact B = 81
 - Rank #2 Smart Contract A = 70 
