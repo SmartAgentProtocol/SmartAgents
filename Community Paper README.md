@@ -165,6 +165,8 @@ The agent can create its own GPG key with which to encrypt and decrypt locally-s
 - Self Sovereign Identity: All users have the power to generate their own identities and their consent is required to use those credentials.
 - Freedom of Association: All those using Smart Agents maintain their independence and freedom of association. 
 
+Ranking each blockchain, Dapp, DAO, & Smart contract will generate a Dapps Score. These criteria will go into the calculation of how to weight the Smart Contracts in the KeyWeb3 LLM dataset and thus down rank high risk or centralized options in favor of open source decentralized options. 
+
 ## Credit, References, & Sources:
 - LangChain: https://docs.langchain.com/docs/
 - Shapeshift Wallet: https://github.com/shapeshift/hdwallet
