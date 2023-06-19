@@ -1,11 +1,11 @@
 # SmartAgent Improvement Proposals or SIPs
 
 ##  SIP 0 Defines How To Write A SmartAgent Improvement Proposal 
-The Smart Agenet Improvement Proposals (SIPs) start with an open review process, include testings, and finally inclusion in a production version of the Smart Agents reference implimentation. Proposals should generally extend the capabilities of the Smart Agent's software for example by adding specific Prompts for the Smart Agent to recognize when the user requests them. Proposals that are finished with development, will be included for testing in the next candidate software version.
+The Smart Agenet Improvement Proposals (SIPs) start with an open review process, include testings, and finally inclusion in a production version of the Smart Agents reference implimentation. Proposals should generally extend the capabilities of the Smart Agent's software for example by adding enhancement datasets or LLMs for the Smart Agent to better recognize and rank the user requests prompts and their relation to Smart Contracts. Proposals that are finished with development, will be included for testing in the next candidate software version.
 
-All SIPs should include:
+SIPs may include:
 
-- A "task specific prompt" should be defined with a few keywords or phrases to trigger the action.
+- A specially trained LLM, algorithm, dataset, or special prompt for enhancing the Smart Agent software.
 
 - Code called from or included in the "internal" code of the downloadable Smart Agent binary install package.
 
@@ -25,44 +25,38 @@ Prompt Keywords: Connect, Connect Wallet, Connect Web3 Wallet, Connect MetaMask,
 Code Leveraged: Open Connect & MetaMask calls from Back End file. https://github.com/SmartAIAgents/SmartAgents/blob/main/backend/src/components/ConnectWallet.tsx    
 
 ## Smart Agent Improvement Proposals In Development
+- SIP #2 Development of a KeyWeb3LLM to map the relationship between Smart Contacts & text in a Prompt.
 
-- SIP #2. Defines prompt for swapping / trading tokens using Shapeshift's open source library.
+- SIP #3 Development of "Prompt Rank" algorithm to rank the most widely used, & decentralized Smart Contacts related to a specific Prompt.
 
-- SIP #3 Defines prompt for Earning yield on tokens using Shapeshift's open source library.
+- SIP #4 Development of the Dapps Score database that maps the ten values of the Smart Agent community to all Smart Contracts.
 
-- SIP #4 Defines prompt for adding tokens to a liquidity Pool using Shapeshift's open source library.
+- SIP #5 Adds interface Shapeshift's open source library of Swaps & Earning.
 
-- SIP #5 Defines prompt for Staking tokens using Lido's tool set.
+- SIP #6 Adds interface for Staking tokens using Lido's tool set.
 
-- SIP #6 Defines prompt for paying user for their data using Rainfall's protocol.
+- SIP #7 Adds ability to download the Rainfall application for earning user rewards for their data.
 
-- SIP #7 Defines prompt for generating images with Stable Diffusion.
+- SIP #8 Adds Stable Diffusion for image generation.
 
-- SIP #8 Defines prompt for writting related tasks with Falcon LLM.
+- SIP #9 Adds Falcon LLM for generating text.
 
-- SIP #9 Defines prompt for creating a To Do List.
-
-- SIP #10 Define prompt for writing a press release.
-
-- SIP #11 Define prompt for writing a resume.
-
-- SIP #12 Define prompt for writing a blog post.
-
+- SIP #10 Adds API for creating a To Do Lists, Press Releases, Resumes, or Blog Posts with Rosey.AI
 
 ## Smart Agent Improvement Proposals Concepts
 
-- SIP #13 Define prompt for coding a function.
+- SIP #11 Add LLM for coding.
 
-- SIP #14 Define prompt creating a NFT.
+- SIP #12 Add tool for creating a NFT.
 
-- SIP #15 Define prompt for finding info on an NFT.
+- SIP #13 Add tools for finding info on an NFT.
 
-- SIP #16 Define prompt audit this code for known bugs.
+- SIP #14 Add tools for auditing code for known bugs.
 
-- SIP #17 Define prompt for Degen mode : )
+- SIP #15 Define prompt for Degen mode : ) (ability to adjust risk levels of the Smart Contract options presented by the Smart Agent)
 
-- SIP #18 Define prompt for starting YouAI.AI style survey to personalize the Smart Agent LLM.
+- SIP #16 Add API for starting YouAI.AI style survey to personalize the Smart Agent LLM.
 
-- SIP #19 Define prompt for registering a Ethereum Name Service.
+- SIP #17 Add support for registering a Ethereum Name Service for your Smart Agent.
 
-- SIP #20 Define prompt for registering a FIO crypto handle.
+- SIP #18 Add support for registering a FIO crypto handle for your Smart Agent.
