@@ -1,7 +1,7 @@
 # Prompt Rank Algorithm
 
 ## Definition: 
-The Prompt Rank algorithm creates a graph of the relationships between prompts from users & Smart Contracts. The output is a ranked list of Smart Contracts that a Smart Agent can interact with based on the user’s choice. By tallying the number of Smart Contracts conducting transactions with other Smart Contracts this generates a first “usage score” for all Smart Contracts. Then you run the algorithm again and calculate the “weighted score” based on the score of each Smart Contract added to the total number of transactions of all their connected Smart Contracts.
+The Prompt Rank algorithm creates a graph of the relationships between prompts from users & Smart Contracts. The output is a ranked list of Smart Contracts that a Smart Agent can interact with based on the user’s choice. By tallying the number of Smart Contracts conducting transactions with other Smart Contracts this generates a first “usage score” for all Smart Contracts. Then you run the algorithm again and calculate the “weighted score” based on the score of each Smart Contract added to the total number of transactions of all their connected Smart Contracts. Finally you run the algorithm again and calculate the "Smart Score" by multiplying the "Dapps Score" and the Weighted Score. The result is the Prompt Rank. 
 
 # Example:
 
