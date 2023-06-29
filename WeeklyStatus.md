@@ -23,3 +23,14 @@ Resolution was the development of the Prompt Rank paper. https://github.com/Smar
 Definition: The Prompt Rank algorithm creates a graph of the relationships between prompts from users & Smart Contracts. The output is a ranked list of Smart Contracts that a Smart Agent can interact with based on the user’s choice. By tallying the number of Smart Contracts conducting transactions with other Smart Contracts this generates a first “usage score” for all Smart Contracts. Then you run the algorithm again and calculate the “weighted score” based on the score of each Smart Contract added to the total number of transactions of all their connected Smart Contracts. Finally user selections will add more weights over time.
 
 Hopefully this will provide the software a fair, dynamic, and scalable way to deal with thousands of different Smart Contracts as users prompt their Smart Agent on a wide variety of actions. This approach is a change from the idea of Prompts as Name Spaces to be claimed to defined statically as Task Specific Prompts.
+
+- Week 5 June 25th 2023: Built out the Prompt Rank website. https://www.promptrank.org/
+
+- Resources for building the dataset for Prompt Rank.
+Decentralized Applications Security Project: https://www.dasp.co/
+List of Audited Smart Contracts: https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts
+Added fork of Ethereum Sancuarty to Smart Agents Repo: https://github.com/SmartAgentProtocol/smart-contract-sanctuary
+For for code analysis: https://semgrep.dev/
+Datasets: https://github.com/huggingface/datasets
+
+
