@@ -27,10 +27,15 @@ Hopefully this will provide the software a fair, dynamic, and scalable way to de
 - Week 5 June 25th 2023: Built out the Prompt Rank website. https://www.promptrank.org/
 
 - Resources for building the dataset for Prompt Rank.
-Decentralized Applications Security Project: https://www.dasp.co/
-List of Audited Smart Contracts: https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts
-Added fork of Ethereum Sancuarty to Smart Agents Repo: https://github.com/SmartAgentProtocol/smart-contract-sanctuary
-For for code analysis: https://semgrep.dev/
-Datasets: https://github.com/huggingface/datasets
+
+A. Decentralized Applications Security Project: https://www.dasp.co/
+
+B. Added fork of Ethereum Sancuarty to Smart Agents Repo: https://github.com/SmartAgentProtocol/smart-contract-sanctuary
+
+C. List of Audited Smart Contracts: https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts
+
+D. Tool for code analysis: https://semgrep.dev/
+
+E. Public Datasets: https://github.com/huggingface/datasets
 
 
