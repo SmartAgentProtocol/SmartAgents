@@ -1,4 +1,4 @@
-## Values To Imbue In Our Smart Agents & For Dev Contributions To Be Ranked By
+# Values To Imbue In Our Smart Agents & For Dev Contributions To Be Ranked By
 - Open Source: The software code underpinning the Smart Agents must be freely reviewable, editable & copyable by all.
 - Peer to Peer: A system which allows for direct connection by all and is free of centralized intermediaries in all their functions.
 - Public Blockchain: A distributed public immutable ledger / system of record for interactions of the Smart Agent. This can be used as proof that a Smart Agent is following its own rules and offers a high level of transparency in the system.
@@ -12,6 +12,8 @@
 
 Scoring each blockchain, Dapp, DAO, & Smart Contract against the list of values above will generate a **"Dapps Score"**. Via the Dapps Score these values will go into the calculation of how to weight the Smart Contracts as part of PromptRank and thus lower the visability of high risk or centralized options in favor of open source decentralized options.
 
+## Quantifying The Values
+
 - Open Source: Point awarded if GPL, APACHE, MIT, Unlicense or other open source license is used on primary repo. Easy to quantify. 
 - Peer to Peer: Point awarded if primary functions are executed locally or via a Peer to Peer network. Easy to quantify.
 - Public Blockchain: Point awarded if primary functions are executed locally or via a public blockchain with greater than 100 validators. Quantifable.
@@ -23,7 +25,7 @@ Scoring each blockchain, Dapp, DAO, & Smart Contract against the list of values 
 - Self Sovereign Identity: Point awarded if Web3 wallets supporting self custody can interact with the project. Easy to quantify.
 - Freedom of Association: Point awarded if users can openly interact with other users without an intermedary.
 
-- Datasets To Pull From
+## Datasets To Pull From For Quantifying
 - Open Source: https://github.com/SmartAgentProtocol/smart-contract-sanctuary
 - Peer to Peer: https://github.com/SmartAgentProtocol/smart-contract-sanctuary
 - Public Blockchain: https://github.com/SmartAgentProtocol/smart-contract-sanctuary
