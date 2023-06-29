@@ -26,16 +26,12 @@ Hopefully this will provide the software a fair, dynamic, and scalable way to de
 
 - Week 5 June 25th 2023: Built out the Prompt Rank website. https://www.promptrank.org/
 
-- Resources for building the dataset for Prompt Rank.
+- Resources for building the dataset for Prompt Rank. Dataset of all Smart Contacts, Sub set of Audited Smart Contracts, tools for code analysis, generalized public data sets, and article / tools for detecting smart contract hacks after deployment but before they are executed. These are the building blocks the Prompt Rank algorithm needs to intelligently make its recommendations.
 
 A. Decentralized Applications Security Project: https://www.dasp.co/
-
 B. Added fork of Ethereum Sancuarty to Smart Agents Repo: https://github.com/SmartAgentProtocol/smart-contract-sanctuary
-
 C. List of Audited Smart Contracts: https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts
-
 D. Tool for code analysis: https://semgrep.dev/
-
 E. Public Datasets: https://github.com/huggingface/datasets
-
-
+F. Article on using machine learning to detect hacks before they are executed. 
+https://forta.org/blog/how-fortas-predictive-ml-models-detect-attacks-before-exploitation/
