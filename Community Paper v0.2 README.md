@@ -1,6 +1,6 @@
 # Smart Agent Protocol
 
-Building Open Source AI With Humans At The Heart
+An Open Source Chat Interface For Dapps, DAOs, & Smart Contracts
 
 -Community Paper Written In Public As A Living Document-
 
