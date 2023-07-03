@@ -1,4 +1,4 @@
-# Prompt Rank Algorithm
+# PromptRank Algorithm
 
 ## Introduction: 
 The PromptRank algorithm calculates the “Smart Score” of each Smart Contract based on the number of transactions it has conducted, multiplied by its “Dapps Score”, multiplied by its “DeFi Score”. The resulting list of Smart Contracts is ranked with the highest Smart Score first, and the lowest Smart Score last. The output is used by the Smart Agent based on the user’s prompt to present a list of recommended Smart Contracts that can be interacted with.
