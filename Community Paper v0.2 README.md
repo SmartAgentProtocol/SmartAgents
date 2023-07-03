@@ -5,11 +5,16 @@ An Open Source Chat Interface For Wallets, Dapps, DAOs, & Smart Contracts
 -Community Paper Written In Public As A Living Document-
 
 ## Introduction:
-Smart Agent is a term to describe a general purpose AI that acts according to the goals of an individual human. This is achieved by connecting the user’s Web3 wallet, to Large Language Models (LLMs) & Smart Contracts, so that the Smart Agent can take actions on behalf of the user.
+Smart Agent is a term to describe a general purpose AI that can execute Smart Contracts on behalf of a user. 
+This is achieved by connecting three key pieces. 
 
-Your Smart Agent is an extension of you. It acts according to your instructions, leverages your wallet & data to benefit you. Your Smart Agent is controlled by your Web3 private keys as you authorize actions for it to take.
+- 1. The user’s Web3 wallet to sign recommended transactions when interacting with the Smart Agent. 
+- 2. A Large Language Model trained on Web3 data including Blockchains, Wallets, Dapps, DAOs, & Smart Contracts.
+- 3. The PromptRank algorithm to score & recommend the best Smart Contracts to the user.
 
-From a Web3 developer perspective, Smart Agents act as a neutral protocol that provides a native AI chat interface to Web3 Smart Contracts, Dapps, Wallets, and public blockchains. Similar to how Ethereum provided a generalized platform for Smart Contracts, IPFS provides a standard data framework & ChainLink provides oracles. Smart Agents provide developers the easiest human to machine interface, natural language based chat. All of sudden your users can tell the Smart Agent what they want to do and it acts on their behalf, fully aware of the universe of Web3 Smart Contracts and tools at its disposal.
+The concept is for the Smart Agent to be an extension of you. It acts according to your instructions, leverages your wallet & data to benefit you. Your Smart Agent is controlled by your Web3 private keys as you authorize actions for it to take.
+
+From a Web3 developer perspective, the Smart Agent acts as a neutral protocol that provides a native AI chat interface to Web3 Smart Contracts, Dapps, DAOs, Wallets, and public blockchains. Similar to how Ethereum provided a generalized platform for Smart Contracts, IPFS provides a standard data framework & ChainLink provides oracles. Smart Agents provide developers the easiest human to machine interface: natural language based chat. Now your users can tell the Smart Agent what they want to do and it acts on their behalf, fully aware of the universe of Web3 Smart Contracts and tools at its disposal.
 
 <img width="766" alt="SmartAgentDiagram20230612" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/b46014a5-704a-4c45-bd81-280016161d65">
 
