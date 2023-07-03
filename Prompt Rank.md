@@ -1,71 +1,60 @@
 # Prompt Rank Algorithm
 
-## Definition: 
-The Prompt Rank algorithm creates a graph of the relationships between prompts from users & Smart Contracts. The output is a ranked list of Smart Contracts that a Smart Agent can interact with based on the user’s choice. By tallying the number of Smart Contracts conducting transactions with other Smart Contracts this generates a first “usage score” for all Smart Contracts. Then you run the algorithm again and calculate the “weighted score” based on the score of each Smart Contract added to the total number of transactions of all their connected Smart Contracts. Finally you run the algorithm again and calculate the "Smart Score" by multiplying the "Dapps Score" and the Weighted Score. The result is the Prompt Rank. 
+## Introduction: 
+The PromptRank algorithm calculates the “Smart Score” of each Smart Contract based on the number of transactions it has conducted, multiplied by its “Dapps Score”, multiplied by its “DeFi Score”. The resulting list of Smart Contracts is ranked with the highest Smart Score first, and the lowest Smart Score last. The output is used by the Smart Agent based on the user’s prompt to present a list of recommended Smart Contracts that can be interacted with.
 
-# Example:
+## Step #1 (Before User Interaction):
+The cumulative number of transactions each Smart Contacts has verified on its primary blockchain is used to generate a “Transaction Score” for all the ranked Smart Contracts.
+- Contract A = Has 2 Transactions
+- Contract B = Has 3 Transactions
+- Contract C = Has 4 Transactions
+- Contract D = Has 3 Transactions
 
-## Step #1 (Before User Interaction): 
-Daily Tally of All Transactions Between Smart Contacts Is Used To Generate A **“Usage Score”** For All Smart Contracts
-- Contract A = Has 1 transaction with each B + C = 2 Transactions
-- Contract B = Has 1 transaction with each A + C + D = 3 Transactions
-- Contract C = Has 1 transaction with each A + B + D + F = 4 Transactions
-- Contract D = Has 1 transaction with each A + B + E = 3 Transactions
-- Contract E = Has 1 transaction with each A + B + C + D + E = 5 Transactions
-
-## Step #2 (Before User Interaction): 
-Daily The Usage Scores Are Added Together For Connected Smart Contacts To Generate A **“Weighted Score”** For All Smart Contracts
-- Contract A = 3 + 4 = 7 Transactions  
-- Contract B = 2 + 4 + 3 = 9 Transactions 
-- Contract C = 2 + 3 + 3 = 8 Transactions
-- Contract D = 2 + 3 + 5 = 10 Transactions
+## Step 2: (Before User Interaction)
+The Transaction Score is multiplied by the "Dapps Score" of each Smart Contract. The Dapps Score is calculated by adding up how many of 10 values listed in the Smart Agent paper are implemented by the Blockchain the Smart Contract operates on.
+- Contract A = 2 Transactions * Dapps Score of 10 = Score of 20
+- Contract B = 3 Transactions * Dapps Score of 9 = Score of 27
+- Contract C = 4 Transactions * Dapps Score of 3 = Score of 12
+- Contract D = 5 Transactions * Dapps Score of 5 = Score of 25
 
 ## Step 3: (Before User Interaction)
-Daily The Weighted Score is multiplied by the "Dapps Score" of each Smart Contract To Generate A **"Smart Score"** For All Smart Contracts.
-The Dapps Score Is Calculated By How Many Of The 10 Values The Smart Contact, Blockchain, Dapps, Or DAO has in working code.
-- Contract A = 7 Transactions * Dapps Score of 10 = Smart Score of 70 
-- Contract B = 9 Transactions * Dapps Score of 9 = Smart Score of 81 
-- Contract C = 8 Transactions * Dapps Score of 3 = Smart Score of 24 
-- Contract D = 10 Transactions * Dapps Score of 5 = Smart Score of 50
+The score from Step 2 is multiplied by the "DeFi Score" of each Smart Contract to generate a "Smart Score" For All Smart Contracts. The DeFi Score Is calculated by detailing how decentralized each smart contract’s operations are.
+- Contract A = 20 * DeFi Score of 10 = Smart Score of 200
+- Contract B = 27 * DeFi Score of 9 = Smart Score of 243
+- Contract C = 12 * DeFi Score of 3 = Smart Score of 36
+- Contract D = 25 * DeFi Score of 5 = Smart Score of 125
 
 ## Step 4: (Before User Interaction)
-Specific Keywords / Tokens Related To The Prompt's Text Generate A List Via KeyWeb3LLM
-KeyWeb3LLM is an enhancement dataset added to the Smart Agent Protocol, which was trained weekly on Web3 datasets of all smart contracts & blockchains.
+Specific Keywords / Tokens related to the Prompt's text generate a list via Web3 Agent LLM. Web3 Agent LLM is an enhancement dataset added to the Smart Agent Protocol, which was trained weekly on Web3 datasets of all smart contracts & blockchains.
 
-## Step #5: (During User Interaction): 
-User enters a prompt.
-Result: KeyWeb3LLM determined Contracts A, B, C, & D are most related to the user Prompt.
+## Step #5: (During User Interaction):
+User enters a prompt. Result: 
+Web3 Agent LLM determined Contracts A, B, C, & D are most related to the user Prompt.
 
-## Step #6: (During User Interaction): 
-KeyWeb3LLM list is ranked by the Smart Scores = Prompt Rank Output:
-- Rank #1 Smart Contact B = 81
-- Rank #2 Smart Contract A = 70 
-- Rank #3 Smart Contract D = 50
-- Rank #4 Smart Contract C = 24
+## Step #6: (During User Interaction):
+Web3 Agent LLM list is ranked by the Smart Scores = PromptRank Output:
+- Rank #1 Smart Contact B = 243
+- Rank #2 Smart Contract A = 200
+- Rank #3 Smart Contract D = 125
+- Rank #4 Smart Contract C = 36
+- Real World PromptRank Calculations:
+
+**Real World Inputs & Calculation:**
+<img width="807" alt="SmartScoreForStablecoins" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/56a46597-5e3c-4fa6-ab7b-71babbd7bdea">
+
+**Real World Outputs:**
+<img width="1035" alt="SmartScoreForStablecoins20230703" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/65662c8e-d3e5-42be-a7e1-dc64b64cc474">
 
 ## Observations
-Prompt Rank put in first place the Smart Contract with the second highest Dapps Score and the second highest Weighted Score.
-This seems a desirable outcome. The user's Smart Agent is presenting them with high usage & low risk options. This reduces the visibility of Smart Contracts that may be inflating their transaction count, but are centrally controlled / risky.
+When asked for Stablecoins, PromptRank listed first, “DAI” even though it has less transactions, its higher DeFi score pushed its Smart Score higher than USDT or USDC, which have more custodial risk. This seems a desirable outcome. The user's Smart Agent is presenting them with high usage & low risk options. This reduces the visibility of Smart Contracts that may be inflating their transaction count, but are centrally controlled / risky.
 
-## Tools For Building Prompt Rank:
-The Graph protocol can be used to query data from both Layer 1’s and Smart Contracts. Create A Graph of Smart Contracts to Prompt Keywords & Phrases. Existing database of Smart Contracts. Person types in a Prompt at ChatWe3.org’s website. They are presented with a list of Smart Contracts that do what they requested. If the Smart Contract offers a referral fee / donation mechanism, then use those fees to cover the gas costs for the user seamlessly, and pay out the remainder as a donation to the Smart Agent community. PromptRank.org website for devs to call the API running the prompt rank database. Of course user selection and Smart Agent transactions can add weight to the Smart Contract scores over time.
+## Improving PromptRank & Web3 Agent LLM:
+- The Graph protocol can be used to query data from both Layer 1’s and Smart Contracts. Regularly creating a graph of Smart Contracts would provide a broad set of data for training of the Web3 Agent LLM or use existing databases of Smart Contracts such as the Smart Contract Sanctuary. 
 
-## Example Utility Score:
-- OpenSea - 8,702,810 Transactions on Ethereum
-- UniSwap - 4,075,274 Transactions on Ethereum
-- ENS - 728,735 Transactions on Ethereum
-- Blur - 559,615 Transactions on Ethereum
-- Lido - 286,145 Transactions on Ethereum
-- Shapeshift / FOX - 245,973 Transactions On Ethereum
-- ThorChain - 235,708 Transactions on Ethereum
-- FIO - 334 Transactions on Ethereum
+- Connecting Chain Link’s API for real time token pricing can add a layer of off chain data available to the Smart Agent that can be highly contextually valuable to the user.
 
-## Example Weighted Score:
-- OpenSea
-- UniSwap 
-- ENS
-- Blur 
-- Lido 
-- Shapeshift / FOX
-- ThorChain
-- FIO
+- Funding via Smart Contracts that offer a referral fee / donation mechanism, then use those fees to cover the gas costs for the user seamlessly, and pay out the remainder as a donation to the Smart Agent community. This can drive more PromptRank dev work. 
+
+- Use PromptRank.org website to provide devs a direct to API to call PromptRank for use in their applications. 
+
+- User selection of the presented outputs and resulting Smart Agent transactions can add weight to the Smart Contract Smart Scores over time.
