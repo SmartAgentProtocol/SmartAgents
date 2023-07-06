@@ -1,7 +1,6 @@
-Open Source Tool Kit
+# Open Source Tool Kit
 
-List of Open Source Tools & Applications For the Smart Agent to Integrate with.
-
+## List of Open Source Tools & Applications For the Smart Agent to Integrate with. Live versin being edited / updated.
 https://docs.google.com/spreadsheets/d/10vrWf7lEbCX-i5JISSzAjArm5GnUrVUoFqr4xf99Jyg/edit?usp=sharing
 
 - Journey To Freedom	https://www.journeytofreedom.me/	Graphic Novel Development
