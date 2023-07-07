@@ -3,7 +3,6 @@
 ## List of Open Source Tools & Applications For the Smart Agent to Integrate with. Live versin being edited / updated.
 https://docs.google.com/spreadsheets/d/10vrWf7lEbCX-i5JISSzAjArm5GnUrVUoFqr4xf99Jyg/edit?usp=sharing
 
-- Journey To Freedom	https://www.journeytofreedom.me/	Graphic Novel Development
 - Brave Browser	https://brave.com/download/	Private Ad Free Browser
 - MetaMask	https://metamask.io/download/	Web3 Wallet
 - Exodus	https://www.exodus.com/download/	Desktop & Mobile Wallet
