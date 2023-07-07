@@ -4,12 +4,12 @@
 https://docs.google.com/spreadsheets/d/10vrWf7lEbCX-i5JISSzAjArm5GnUrVUoFqr4xf99Jyg/edit?usp=sharing
 
 - Journey To Freedom	https://www.journeytofreedom.me/	Graphic Novel Development
+- Brave Browser	https://brave.com/download/	Private Ad Free Browser
 - MetaMask	https://metamask.io/download/	Web3 Wallet
 - Exodus	https://www.exodus.com/download/	Desktop & Mobile Wallet
 - Network Nation	https://www.networknation.org/	ETH Yield with Thorchain
 - ThorChain	https://thorchain.net/thorfi/savers	Protocol for peer to peer token swaps of ETH, BTC & more.
 - Signal	https://signal.org/en/download/	Private Chat on Desktop & Mobile
-- Brave Browser	https://brave.com/download/	Private Ad Free Browser
 - Ethereum Name Service	https://ens.domains/	Identity Connected To Your Ethereum Address
 - Proton	https://proton.me/	Private Email, Calendar, Drive
 - Harriet	https://harriet.chat/	Smart Agent Dedicated to Increasing Human Freedom
