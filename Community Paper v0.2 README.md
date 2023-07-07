@@ -61,6 +61,7 @@ LangChain, Shapeshift Wallet, Shapershift Token Swaps, Shapeshift Earn, Chat bas
 - Shapeshift Earn: https://tinyurl.com/ycxummd6
 - Chat based LLM LLaMA:  https://github.com/openlm-research/open_llama
 - Image Diffusion Model: https://github.com/CompVis/stable-diffusion
+- Bitcoin Lightning Payments: https://lightning.engineering/posts/2023-07-05-l402-langchain/
 
 ## The Software Stack
 The Smart Agent program will be downloaded locally and come configured with AutoGPT which makes it simple to add different LLMs or connect data sources to make your Smart Agent more useful. Capabilities of AutoGPT include: https://github.com/Significant-Gravitas/Auto-GPT
