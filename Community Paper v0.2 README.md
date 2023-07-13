@@ -8,9 +8,10 @@ An Open Source Chat Interface For Wallets, Dapps, DAOs, & Smart Contracts
 Smart Agent is a term to describe a general purpose AI that can execute Smart Contracts on behalf of a user. 
 This is achieved by connecting three key pieces. 
 
-- 1. The user’s Web3 wallet to sign recommended transactions when interacting with the Smart Agent. 
+- 1. The user’s Web3 wallet for key management & to sign recommended transactions when interacting with the Smart Agent. 
 - 2. A Large Language Model trained on Web3 data including Blockchains, Wallets, Dapps, DAOs, & Smart Contracts.
 - 3. The PromptRank algorithm to score & recommend the best Smart Contracts to the user.
+- 4. Longterm memory of user data & connected applications stored locally or via decentralized cloud to provide broader context to Smart Agent actions.
 
 The concept is for the Smart Agent to be an extension of you. It acts according to your instructions, leverages your wallet & data to benefit you. Your Smart Agent is controlled by your Web3 private keys as you authorize actions for it to take.
 
