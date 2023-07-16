@@ -3,6 +3,9 @@
 ## Week 8 July 16th Local Install Of The Smart Agent Software
 - https://vercel.com/blog/introducing-the-vercel-ai-sdk
 - https://agent-install-bkz6.vercel.app/
+- https://github.com/DavidAJohnston/llama.cpp
+- https://github.com/DavidAJohnston/ai
+- https://github.com/DavidAJohnston/easydiffusion
 
 ## Week 7 July 9th Dedicated SDKs for Ethereum, Avalanche, Polygon, Bitcoin & Cosmos
 - https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForAvalancheSmartAgents.md
