@@ -6,6 +6,7 @@
 - https://github.com/DavidAJohnston/llama.cpp
 - https://github.com/DavidAJohnston/ai
 - https://github.com/DavidAJohnston/easydiffusion
+- https://huggingface.co/datasets/bigcode/starcoderdata
 
 ## Week 7 July 9th Dedicated SDKs for Ethereum, Avalanche, Polygon, Bitcoin & Cosmos
 - https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForAvalancheSmartAgents.md
