@@ -66,25 +66,15 @@ LangChain, Shapeshift Wallet, Shapershift Token Swaps, Shapeshift Earn, Chat bas
 
 ## The Software Stack
 The Smart Agent program will be downloaded locally and come configured with AutoGPT which makes it simple to add different LLMs or connect data sources to make your Smart Agent more useful. Capabilities of AutoGPT include: https://github.com/Significant-Gravitas/Auto-GPT
-- 🌐 Internet access for searches and information gathering
 - 💾 Long-term and short-term memory management
-- 🧠 GPT-4 instances for text generation
-- 🔗 Access to popular websites and platforms
-- 🗃️ File storage and summarization with GPT-3.5
-- 🔌 Extensibility with Plugins
+- 🧠 LLaMa-2 instance for text generation
+- 🗃️ Web3 Wallet for executing transactions / Smart Contract actions
+- 🔌 PromptRank algorithm for ranking Web3 content
 
 Similarly the selection of which Web3 wallet used is also the choice of the user. The key in the framework is the standardized way the Wallet, the LLMs, and the modules all work together.
 
 ## The Smart Agent Protocol
 The Smart Agent Protocol software package can be installed on your local computer and comes with some basic default capabilities such as with LLaMa pre-installed and the ETH Staking program. Developers that contribute to this software will gain part of the ETH yield from the Staking and other default programs running on the software. Thus creating an incentive for people to improve the Smart Agent itself. All code contributions merged into the project will be counted as weights in the distribution of rewards from the software.
-
-## Simplified Diagram of Hello World Version of a Smart Agent
-<img width="613" alt="SimpliedDiagram20230530" src="https://github.com/SmartAIAgents/Core/assets/1563345/e275c835-bcf0-403f-b5ef-ef651326ea2c">
-
-The presumption is that there is a significant cross section of early adopters of Web3 wallets (Metamask being the most popular) and OpenAI’s ChatGPT 4. In order to make the Smart Agent function there are three minimum functions. The ability to set a task with Auto-GPT, an LLM to act according to the instruction and the user to authorize the final action via their wallet.
-
-## Next Improvements To Research
-First limitation to overcome will be the dependence on OpenAI / GPT4 due to it not being open source and requiring the user to pay a monthly bill and lack of privacy of the data. Having an Open Source LLM option pre-installed such as LLaMa may work for this purpose. Same with a pre-installed image generator such as Stable Diffusion. That would also benefit the persistence of the Smart Agent as it will continue to function with open source LLMs as a back up if the user’s OpenAI keys expire. The trade off will be a heavier load on the local compute and storage resource, which depending on the LLM model size may be significant.
 
 https://github.com/openlm-research/open_llama
 https://github.com/CompVis/stable-diffusion
@@ -110,14 +100,6 @@ Deploy website that allows the user to connect their Web3 wallet (Metamask for e
 Include a list of smart agent contracts in the marketplace in the software package so the user can add these programs to their Smart Agent.
 
 ## SmartAgent Improvements Proposals Under Development. 
-- SIP #2. Defines prompt for swapping / trading tokens using Shapeshift's open source library.
-
-- SIP #3 Defines prompt for Earning yield on tokens using Shapeshift's open source library.
-
-- SIP #4 Defines prompt for adding tokens to a liquidity Pool using Shapeshift's open source library.
-
-- SIP #5 Defines prompt for Staking tokens using Lido's tool set.
-
 Full List of SmartAgent Improvement Proposals can be read here. 
 https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SmartAgentImprovementProposals(SIPs).md
 
