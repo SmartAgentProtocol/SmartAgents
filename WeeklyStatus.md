@@ -1,5 +1,9 @@
 # Notes on Weekly Status From Community 
 
+## Week 9 July 23rd Local Install Of The Smart Agent Software
+- https://github.com/SmartAgentProtocol/prem-app
+- https://github.com/SmartAgentProtocol/plebai
+
 ## Week 8 July 16th Local Install Of The Smart Agent Software
 - https://vercel.com/blog/introducing-the-vercel-ai-sdk
 - https://agent-install-bkz6.vercel.app/
