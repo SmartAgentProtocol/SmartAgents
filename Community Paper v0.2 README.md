@@ -165,7 +165,7 @@ Scoring each blockchain, Dapp, DAO, & Smart Contract against the list of values 
 - Description of Tokenomics by Willy: https://t.co/lkRNmn1dZp?ssr=true
 
 ## Community chats With: 
-David Johnston, Pedro Cruz, Scott Berenzweig, Erik Voorhees, Willy Ogorzaly, Jonathan Mohan, Jacob Farber, Ryan Singer, Michael Perklin, Parul Gujral, Eric Olszewski, Greg Osuri, Yonatan Ben Shimon, Craig Sellars, Jeff McDonald, Michal Pospieszalski, Luke Stokes & anonymous contributors.
+David Johnston, Scott Berenzweig, Pedro Cruz, Erik Voorhees, Willy Ogorzaly, Jonathan Mohan, Jacob Farber, Ryan Singer, Michael Perklin, Parul Gujral, Eric Olszewski, Greg Osuri, Yonatan Ben Shimon, Craig Sellars, Jeff McDonald, Michal Pospieszalski, Luke Stokes & anonymous contributors.
 
 ## Phases of Smart Agent Development:
 
