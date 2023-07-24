@@ -55,8 +55,8 @@ The smart agent desktop app will include a Smart Agent wallet alongside Chromium
 
 A Smart Agent chat plug-in to wallets will be a means to further the reach of Prompt Rank. 
 
-### EVM Compatable
-Using Solidity, this allows the Smart Agent Protocol to remain chain agnostic, anchoring agents in a familiar environmment to all EVMs.
+### EVM Compatible
+Using Solidity, this allows the Smart Agent Protocol to remain chain agnostic, anchoring agents in a familiar environment to all EVMs.
 
 ### Repositories
     Main:   https://github.com/SmartAgentProtocol/SmartAgents
