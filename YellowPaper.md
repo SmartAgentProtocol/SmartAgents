@@ -1,5 +1,5 @@
-# Smart Agent
-### Tech Stack Abstract for the Web3 Developer
+# Smart Agent Yellow Paper
+### A generalized protocol for connecting AI Agents to Smart Contracts
 ###### Pre-Beta | July 2023
 
 ## Overview
