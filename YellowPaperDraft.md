@@ -45,7 +45,7 @@ LangchainJS will be the structure used to create the Smart Agent template. It al
 - 5. Data ingest, embedding and vector mapping (learning)
 - 6. Guidelines for agent logic and behavior (logic and rules)
 
-![SmartAgent Prompt Flow](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/2c480f13-7760-42d6-89e4-4bc202622f45)
+<img width="1293" alt="PromptNetworkFlow" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/0aedf070-d6ae-4488-9b24-3f5ddd527408">
 
 ### Desktop install 
 An install using ElectronJS gives us access to a local version of Chromium and Node running on a User’s machine.  This is being developed at https://github.com/betterbrand/SmartAgent-Install. 
