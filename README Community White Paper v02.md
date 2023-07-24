@@ -1,6 +1,5 @@
 # Smart Agent Protocol
-
-An Open Source Chat Interface For Wallets, Dapps, DAOs, & Smart Contracts
+## An open source protocol for connecting LLMs / AI Agents to Web3 Wallets, Dapps, DAOs, & Smart Contracts
 
 -Community Paper Written In Public As A Living Document-
 
