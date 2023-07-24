@@ -93,22 +93,16 @@ In order to focus on the local install’s wallet functionality, the AI will be 
 
 *Post Beta we will start moving these services to the local install in order to remove Internet based vulnerabilities.* 
 
-
-
-
 ### Workflow
 - 1. User consults their Smart Agent, the Smart Agent prompts the user 
 - 2. A conversation takes place, then actions are taken by the Smart Agent using credentials provided by the User.
 - 3. The Smart Agent reports back to the User and remembers the context and content of each conversation.  
 
-_Start – Smart Agent looks for intent_  
-![Smart Agent looks for intent](Smart_Agent_Diagrams-StartingIntent.jpg)
+<img width="590" alt="Agent example 1" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/ea8bff61-5427-4dbd-96fe-725259e63549">
 
-_Intent is to Stake_
-![Intent is to stake](Smart_Agent_Diagrams-StakingETH-1.jpg)
+<img width="594" alt="Agent Example 2" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/170a5ca4-73c4-4e1e-8d2d-c69644a4972b">
 
-_Smart Contract Integration_
-![Smart Agent Interaction](Smart_Agent_Diagrams-StakingIntent.jpg)
+<img width="596" alt="Agent Example 3" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/c7afe6aa-7a72-4ec0-b2f2-a11423ba9d2d">
 
 #### Smart Agent Donations
 For dapps outside the Prompt Rank algorithm, all financial transactions will add a 10% to the user.   
@@ -117,11 +111,8 @@ There will be a point in which we want to analyze our Smart Agents’ actions an
 
 When a web3 transaction is conducted with a Smart Agent, it first goes through a Smart Agent contract that verifies identity and intent.  A third party covering gas fees or internal Paymaster will be implemented to obfuscate the installation address and onboard users into new networks in the future.
 
-
-### Languages & Protocols
-
+### Languages & Protocol
 Version 1.0 is going to be developed using the JS version of LangChain with a number of components
-
 
 |Function|Beta API|
 | ----------- | ----------- |
@@ -135,25 +126,20 @@ Version 1.0 is going to be developed using the JS version of LangChain with a nu
 - Beta v0.1
         - Installable
     - Able to complete 1 conversational command (Welcome, Stake eth, show result)
-    - V 1.1
+    - V 0.2
 - Agent Dashboard
     - Change in new modules LLMs
     - Partial API
-    - V1.1.5
+    - V0.3
     - Smart Agent Paymaster
-- V 1.2
+- V 0.4
     - True Local and Open source
-- V 1.3
- - TBD
-⥥
-- V2 and onward
+- V 0.5
+ - 
+- V1 and onward
     - Linux Distribution, 
     - FreedomTech Software Bundles for Mac/PC
     - Full Nodes
     - Light Clients
     - Chrome/Wallet extension
     - Embed into site
-
-
-### Smart Agent Prompt Flow
-![Smart Agent Prompt Flow](SA-Prompt-Flow-Prompt-Flow.jpg)
