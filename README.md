@@ -15,6 +15,7 @@
 - Register To Build Smart Agents For Clients: https://www.smartagency.ai/
 - Smart Agent Code For FrontEnd: https://github.com/SmartAgentProtocol/SmartAgents/tree/main/frontend
 - Smart Agent Code For BackEnd: https://github.com/SmartAgentProtocol/SmartAgents/tree/main/backend
+- Contributor Guidelines: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/ContributorGuidelines.md
 
 ## Community Links:
 - Twitter / X: https://twitter.com/SmartAgentsOrg
