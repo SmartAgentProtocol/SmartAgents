@@ -21,8 +21,6 @@ Smart Agents let people talk to smart contracts with the confidence of Prompt Ra
 1. It will be installable so important data is stored locally
 2. It will transact securely via a wallet integrated into Chromium.
 
-
-
 <h2>Smart Agent Footprint</h2>
 
 <div align="left">
@@ -46,6 +44,8 @@ LangchainJS will be the structure used to create the Smart Agent template. It al
 - 4. Chains of tasks (actions)
 - 5. Data ingest, embedding and vector mapping (learning)
 - 6. Guidelines for agent logic and behavior (logic and rules)
+
+SA-Prompt-Flow-Prompt-Flow.jpg
 
 ### Desktop install 
 An install using ElectronJS gives us access to a local version of Chromium and Node running on a User’s machine.  This is being developed at https://github.com/betterbrand/SmartAgent-Install. 
