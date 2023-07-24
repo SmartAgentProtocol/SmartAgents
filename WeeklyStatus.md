@@ -1,15 +1,15 @@
 # Notes on Weekly Status From Community 
 
-## Week 10 July 30th
+## Week 10 July 2023 30th
 - Writing the Yellow Paper with detailed technical specification. https://github.com/SmartAgentProtocol/SmartAgents/blob/main/YellowPaper.md
 - Diagram for the Prompt Network Flow of actions from the user to LLM, to agents, to smart contracts and back.
 <img width="1293" alt="PromptNetworkFlow" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/9b586328-969c-43c0-a31a-f2823fabe72c">
 
-## Week 9 July 23rd Local Install Of The Smart Agent Software
+## Week 9 July 23rd 2023 Local Install Of The Smart Agent Software
 - https://github.com/SmartAgentProtocol/prem-app
 - https://github.com/SmartAgentProtocol/plebai
 
-## Week 8 July 16th Local Install Of The Smart Agent Software
+## Week 8 July 16th 2023 Local Install Of The Smart Agent Software
 - https://vercel.com/blog/introducing-the-vercel-ai-sdk
 - https://agent-install-bkz6.vercel.app/
 - https://github.com/DavidAJohnston/llama.cpp
@@ -17,14 +17,14 @@
 - https://github.com/DavidAJohnston/easydiffusion
 - https://huggingface.co/datasets/bigcode/starcoderdata
 
-## Week 7 July 9th Dedicated SDKs for Ethereum, Avalanche, Polygon, Bitcoin & Cosmos
+## Week 7 July 9th 2023 Dedicated SDKs for Ethereum, Avalanche, Polygon, Bitcoin & Cosmos
 - https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForAvalancheSmartAgents.md
 - https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForBitcoinSmartAgents.md
 - https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForCosmosSmartAgents.md
 - https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForEthereumSmartAgents.md
 - https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForPolygonSmartAgents.md
 
-## Week 6 July 2nd 
+## Week 6 July 2nd 2023
 Updates to the https://www.smartagent.org/ new links.
 - https://www.chatweb3.org/ Implimentation of a working Smart Agent with Prompt Rank.
 - https://github.com/SmartAgentProtocol/SmartAgents Updated name for the project.
