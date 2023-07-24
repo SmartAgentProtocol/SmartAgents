@@ -124,19 +124,18 @@ Version 1.0 is going to be developed using the JS version of LangChain with a nu
 
 ### Roadmap
 - Beta v0.1
-        - Installable
+    - Installable
     - Able to complete 1 conversational command (Welcome, Stake eth, show result)
-    - V 0.2
-- Agent Dashboard
+- Version 0.2
+    - Agent Dashboard
     - Change in new modules LLMs
     - Partial API
-    - V0.3
+- Version 0.3
     - Smart Agent Paymaster
-- V 0.4
-    - True Local and Open source
-- V 0.5
- - 
-- V1 and onward
+- Version 0.4
+    - True Local and open source
+  
+- Version 1.0 and onward
     - Linux Distribution, 
     - FreedomTech Software Bundles for Mac/PC
     - Full Nodes
