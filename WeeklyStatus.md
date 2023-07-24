@@ -1,6 +1,6 @@
 # Notes on Weekly Status From Community 
 
-## Week 10 July 2023 30th
+## Week 10 July 30th 2023 Yellow Paper Development
 - Writing the Yellow Paper with detailed technical specification. https://github.com/SmartAgentProtocol/SmartAgents/blob/main/YellowPaper.md
 - Diagram for the Prompt Network Flow of actions from the user to LLM, to agents, to smart contracts and back.
 <img width="1293" alt="PromptNetworkFlow" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/9b586328-969c-43c0-a31a-f2823fabe72c">
@@ -68,4 +68,4 @@ https://github.com/SmartAIAgents/SmartAgents/blob/main/ContributorGuidelines.md
 Pedro, Scott & David hacked on front end and mapped actions such Staking, Swaps, and Wallet Connect to prompts with color coded action buttons.
 
 ## Week 1 May 28th 2023: 
-Pedro, Scott and David hacked on front end and got basic GPT Chat style interface live and hook ups done for OpenAI.
+Pedro, Scott and David hacked on front end and got basic GPT Chat style interface live and hook ups done.
