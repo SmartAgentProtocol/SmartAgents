@@ -25,7 +25,7 @@ Smart Agents let people talk to smart contracts with the confidence of Prompt Ra
 
 <h2>Smart Agent Footprint</h2>
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/SmartAgentProtocol/SmartAgents">https://github.com/SmartAgentProtocol/SmartAgents</a><br>
 <a href="https://www.smartagent.org/">https://www.smartagent.org/</a><br>
 <a href="https://www.chatweb3.org/">https://www.chatweb3.org/</a><br>
