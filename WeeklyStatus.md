@@ -1,5 +1,10 @@
 # Notes on Weekly Status From Community 
 
+## Week 10 July 30th
+- Writing the Yellow Paper with detailed technical specification. https://github.com/SmartAgentProtocol/SmartAgents/blob/main/YellowPaper.md
+- Diagram for the Prompt Network Flow of actions from the user to LLM, to agents, to smart contracts and back.
+<img width="1293" alt="PromptNetworkFlow" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/9b586328-969c-43c0-a31a-f2823fabe72c">
+
 ## Week 9 July 23rd Local Install Of The Smart Agent Software
 - https://github.com/SmartAgentProtocol/prem-app
 - https://github.com/SmartAgentProtocol/plebai
