@@ -1,5 +1,5 @@
 # Smart Agent Protocol
-## An open source protocol for connecting LLMs / AI Agents to Web3 Wallets, Dapps, DAOs, & Smart Contracts
+## Connecting LLMs / AI Agents to Web3 Wallets, Dapps, & Smart Contracts
 
 -Community Paper Written In Public As A Living Document-
 
