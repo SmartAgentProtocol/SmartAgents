@@ -10,15 +10,16 @@ An agent is a specialized chatbot that acts on behalf of a person.
 
 ### What’s a Smart Agent?
 A Smart Agent is a standard agent that has been trained on the Prompt Rank algorithm, making it a tool to chat intelligently with all things web3.
+
 ### What’s the Prompt Rank algorithm?
-At Google’s core, you’ll find the Pagerank algorithm.  At the Smart Agent core, you’ll find the Prompt Rank algorithm. Where Pagerank only shows the most relevant pages, Prompt Rank lets Smart Agents best understand smart contracts based on predetermined metrics.  These metrics include  transactions, network, centralization, (full list needed).
-
-##### Dapp developers will be able to register and submit their contracts for consideration.  Once considered, a developer can choose to be included or resubmit.   
+At Google’s core, you’ll find the PageRank algorithm. At the Smart Agent core, you’ll find the Prompt Rank algorithm. Where PageRank determines the most relevant webpages, Prompt Rank provides the Smart Agent the best Smart Contracts to display to the user based on metrics such as number of transactions, which blockchain they execute on and level of decentralization. Full details here. https://www.promptrank.org/
+   
 ### Who is the end user?
-Smart Agents let people talk to smart contracts with the confidence of Prompt Rank.  So, a new adopter of crypto will use their Smart Agent as a guide.  As they gain experience and become more comfortable, their Smart Agent will grow to be an assistant.
+Smart Agents let people talk to Smart Contracts with confidence because Prompt Rank to showing them the most used and decentralized options. So, a new adopter of crypto will use their Smart Agent as a guide. As they gain experience and become more comfortable, their Smart Agent will grow to be a daily assistant.
 
-##### We see this project as the conduit to onboard the next billion crypto users. The Smart Agent will educate people on all relevant web3 topics and transact on their behalf.
-1. It will be installable so important data is stored locally
+We see this project as the way to onboard the first billion crypto users because it removes all barriers for the user. The Smart Agent can talk using natural language and works for users on all relevant web3 topics and importantly can transact on their behalf.
+
+1. It will be installable so important data is stored locally.
 2. It will transact securely via a wallet integrated into Chromium.
 
 <h2>Smart Agent Footprint</h2>
@@ -122,23 +123,5 @@ Version 1.0 is going to be developed using the JS version of LangChain with a nu
 |Agent Architecture|Langchain|
 |Document Training & Testing|Botpress|
 
-### Roadmap
-- Beta v0.1
-    - Installable
-    - Able to complete 1 conversational command (Welcome, Stake eth, show result)
-- Version 0.2
-    - Agent Dashboard
-    - Change in new modules LLMs
-    - Partial API
-- Version 0.3
-    - Smart Agent Paymaster
-- Version 0.4
-    - True Local and open source
-  
-- Version 1.0 and onward
-    - Linux Distribution, 
-    - FreedomTech Software Bundles for Mac/PC
-    - Full Nodes
-    - Light Clients
-    - Chrome/Wallet extension
-    - Embed into site
+### Conclusion
+The Smart Agent tech stack is built on the latest AI Agent tools with an eye for extending them to the world of EVMs, Smart Contracts, and Web3 tools. Opening up this work of wallets, Dapps, DAOs and more to the average person with no technical ability required and in a way that will guide them toward the safest, best used, and most decentralized options available.
