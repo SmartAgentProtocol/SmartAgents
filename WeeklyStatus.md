@@ -1,5 +1,23 @@
 # Notes on Weekly Status From Community 
 
+## Week 15 September 2rd
+Proposal received via email from a developer named "Morpheus" with a proposal for launching: 
+"Morepheus - A Network For Powering Smart Agents"
+https://docs.google.com/document/d/1E6gTjvdg2yHYJiqMxIraOLNNXA1lv8Fe20XpbwdPDi8/edit?usp=sharing
+
+## Week 14 August 27th 2023
+Docs from Scott on how to install Ollama and other branches for first local LLM test.
+https://docs.google.com/document/d/152_ocHp2hr-V3gB9zvhTlYwCJHBTeUBYW44jSQuiSww/edit
+
+# Week 13 August 20th 2023
+Worked to impliment the Yellow Paper.
+
+## Week 12 August 13th 2023
+Worked to impliment the Yellow Paper.
+
+## Week 11 August 6th 2023 
+Worked to impliment the Yellow Paper.
+
 ## Week 10 July 30th 2023 Yellow Paper Development
 - Writing the Yellow Paper with detailed technical specification. https://github.com/SmartAgentProtocol/SmartAgents/blob/main/YellowPaper.md
 - Diagram for the Prompt Network Flow of actions from the user to LLM, to agents, to smart contracts and back.
