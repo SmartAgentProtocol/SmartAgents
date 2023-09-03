@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1E6gTjvdg2yHYJiqMxIraOLNNXA1lv8Fe20XpbwdPDi8/
 Docs from Scott on how to install Ollama and other branches for first local LLM test.
 https://docs.google.com/document/d/152_ocHp2hr-V3gB9zvhTlYwCJHBTeUBYW44jSQuiSww/edit
 
-# Week 13 August 20th 2023
+## Week 13 August 20th 2023
 Worked to impliment the Yellow Paper.
 
 ## Week 12 August 13th 2023
