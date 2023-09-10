@@ -1,6 +1,8 @@
 # Title: Morepheus
-Subtitle: A Network For Powering Smart Agents
+## Subtitle: A Network For Powering Smart Agents
+
 Co-Authors: Morpheus, Trinity & Neo
+
 Published - September 2nd 2023
 
 
