@@ -1,4 +1,4 @@
-<img width="400" alt="Morepheus Logo 42 Font Bold MTN Binary" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/6bcdcb2a-6574-42ab-9740-4be7e28c8830">
+<img width="200" alt="Morepheus Logo 42 Font Bold MTN Binary" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/6bcdcb2a-6574-42ab-9740-4be7e28c8830">
 
 # Title: Morepheus
 ## Subtitle: A Network For Powering Smart Agents
