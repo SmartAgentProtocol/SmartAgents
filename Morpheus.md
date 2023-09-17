@@ -142,7 +142,7 @@ I received an email from a developer named Morpheus September 2nd 2023 with the 
 _______________________
 David,
 
-Find below a proposal for launching "Morepheus - A Network For Powering Smart Agents".
+Find below a proposal for launching "Morpheus - A Network For Powering Smart Agents".
 
 The paper lays out the token economics, tech stack, and means of calculating proofs for fairly rewarding the community, coders, capital & compute providers with tokens.
 
