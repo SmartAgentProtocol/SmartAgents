@@ -9,7 +9,7 @@ This is achieved by connecting four key pieces.
 
 - 1. The user’s Web3 wallet for key management & to sign recommended transactions when interacting with the Smart Agent. 
 - 2. A Large Language Model trained on Web3 data including Blockchains, Wallets, Dapps, DAOs, & Smart Contracts.
-- 3. The PromptRank algorithm to score & recommend the best Smart Contracts to the user.
+- 3. The SmartContractRank algorithm to score & recommend the best Smart Contracts to the user.
 - 4. Longterm memory of user data & connected applications stored locally or via decentralized cloud to provide broader context to Smart Agent actions.
 
 The concept is for the Smart Agent to be an extension of you. It acts according to your instructions, leverages your wallet & data to benefit you. Your Smart Agent is controlled by your Web3 private keys as you authorize actions for it to take.
@@ -66,7 +66,7 @@ The Smart Agent program will be downloaded locally and come configured with Auto
 - 💾 Long-term and short-term memory management
 - 🧠 LLaMa-2 instance for text generation
 - 🗃️ Web3 Wallet for executing transactions / Smart Contract actions
-- 🔌 PromptRank algorithm for ranking Web3 content
+- 🔌 SmartContractRank algorithm for ranking Web3 content
 
 Similarly the selection of which Web3 wallet used is also the choice of the user. The key in the framework is the standardized way the Wallet, the LLMs, and the modules all work together.
 
@@ -118,7 +118,7 @@ The task’s solution should result in a benefit to the Smart Agent Owner, a per
 - [ChatWeb3.org](https://www.chatweb3.org/) Web interface for the Smart Agent reference implementation.
 - [SmartAgent.org](https://www.smartagent.org/) Community page listing Smart Agent resources, websites, Github, Docs.
 - [SmartAgents.ETH](https://app.ens.domains/smartagents.eth) Page for Ethereum specific Smart Agent content.
-- [PromptRank.org](https://www.promptrank.org/) Website for tech description of PromptRank & for developers to use the API.
+- [SmartContractRank.org](https://www.smartcontractrank.org/) Website for tech description of SmartContractRank & for developers to use the API.
 
 - Reddit: https://www.reddit.com/r/SmartAgents/
 - Github: https://github.com/SmartAgentProtocol/SmartAgents
@@ -150,7 +150,7 @@ The agent can create its own GPG key with which to encrypt and decrypt locally-s
 - Self Sovereign Identity: All users have the power to generate their own identities and their consent is required to use those credentials.
 - Freedom of Association: All those using Smart Agents maintain their independence and freedom of association. 
 
-Scoring each blockchain, Dapp, DAO, & Smart Contract against the list of values above will generate a "Dapps Score". Via the Dapps Score these values will go into the calculation of how to weight the Smart Contracts as part of PromptRank and thus lower the visability of high risk or centralized options in favor of open source decentralized options.
+Scoring each blockchain, Dapp, DAO, & Smart Contract against the list of values above will generate a "Dapps Score". Via the Dapps Score these values will go into the calculation of how to weight the Smart Contracts as part of SmartContractRank and thus lower the visability of high risk or centralized options in favor of open source decentralized options.
 
 ## Credit, References, & Sources:
 - LangChain: https://docs.langchain.com/docs/
