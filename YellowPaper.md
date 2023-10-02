@@ -9,13 +9,13 @@
 An agent is a specialized chatbot that acts on behalf of a person. 
 
 ### What’s a Smart Agent?
-A Smart Agent is a standard agent that has been trained on the Prompt Rank algorithm, making it a tool to chat intelligently with all things web3.
+A Smart Agent is a standard agent that has been trained on the SmartContractRank algorithm, making it a tool to chat intelligently with all things web3.
 
-### What’s the Prompt Rank algorithm?
-At Google’s core, you’ll find the PageRank algorithm. At the Smart Agent core, you’ll find the Prompt Rank algorithm. Where PageRank determines the most relevant webpages, Prompt Rank provides the Smart Agent the best Smart Contracts to display to the user based on metrics such as number of transactions, which blockchain they execute on and level of decentralization. Full details here. https://www.promptrank.org/
+### What’s the Smart Contract Rank algorithm?
+At Google’s core, you’ll find the PageRank algorithm. At the Smart Agent core, you’ll find the Smart Contract Rank algorithm. Where PageRank determines the most relevant webpages, Smart Contract Rank provides the Smart Agent the best Smart Contracts to display to the user based on metrics such as number of transactions, which blockchain they execute on and level of decentralization. Full details here. https://www.SmartContractRank.org/
    
 ### Who is the end user?
-Smart Agents let people talk to Smart Contracts with confidence because Prompt Rank to showing them the most used and decentralized options. So, a new adopter of crypto will use their Smart Agent as a guide. As they gain experience and become more comfortable, their Smart Agent will grow to be a daily assistant.
+Smart Agents let people talk to Smart Contracts with confidence because Smart Contract Rank to showing them the most used and decentralized options. So, a new adopter of crypto will use their Smart Agent as a guide. As they gain experience and become more comfortable, their Smart Agent will grow to be a daily assistant.
 
 We see this project as the way to onboard the first billion crypto users because it removes all barriers for the user. The Smart Agent can talk using natural language and works for users on all relevant web3 topics and importantly can transact on their behalf.
 
@@ -28,7 +28,7 @@ We see this project as the way to onboard the first billion crypto users because
 <a href="https://github.com/SmartAgentProtocol/SmartAgents">https://github.com/SmartAgentProtocol/SmartAgents</a><br>
 <a href="https://www.smartagent.org/">https://www.smartagent.org/</a><br>
 <a href="https://www.chatweb3.org/">https://www.chatweb3.org/</a><br>
-<a href="https://www.promptrank.org/">https://www.promptrank.org/</a><br>
+<a href="https://www.SmartContractRank.org/">https://www.SmartContractRank.org/</a><br>
 <a href="https://www.smartagency.ai/">https://www.smartagency.ai/</a><br>
 <a href="https://app.ens.domains/smartagents.eth">https://app.ens.domains/smartagents.eth</a><br>
 <a href="https://twitter.com/SmartAgentsOrg">https://twitter.com/SmartAgentsOrg</a><br>
@@ -40,7 +40,7 @@ We see this project as the way to onboard the first billion crypto users because
 LangchainJS will be the structure used to create the Smart Agent template. It allows us to combine six global functions necessary for all Smart Agents.
 
 - 1. Large Language Models (communication)
-- 2. Native knowledge base using Prompt Rank  (intelligence)
+- 2. Native knowledge base using Smart Contract Rank  (intelligence)
 - 3. Persistent memory of conversations, tasks, results, and updates (recall)
 - 4. Chains of tasks (actions)
 - 5. Data ingest, embedding and vector mapping (learning)
@@ -54,7 +54,7 @@ An install using ElectronJS gives us access to a local version of Chromium and N
 ### Wallets
 The smart agent desktop app will include a Smart Agent wallet alongside Chromium or as part of the  Node backend.  The app will be packaged initially for Mac/PC/Linux.  React native or Flutter soon to follow for mo.
 
-A Smart Agent chat plug-in to wallets will be a means to further the reach of Prompt Rank. 
+A Smart Agent chat plug-in to wallets will be a means to further the reach of Smart Contract Rank. 
 
 ### EVM Compatible
 Using Solidity, this allows the Smart Agent Protocol to remain chain agnostic, anchoring agents in a familiar environment to all EVMs.
