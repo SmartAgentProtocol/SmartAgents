@@ -32,8 +32,6 @@ An example would be instructing your Smart Agent via a prompt to “Stake my ETH
 
 <img width="773" alt="IncentiveModelSmartAgents20230612" src="https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/bd6448da-eb0a-4884-bb9b-edf1cc6788dc">
 
-An example would be instructing your Smart Agent via a prompt to “Stake my ETH”. A developer having already contributed a smart contract for ETH Staking to the framework, the Smart Agent calls that smart contract to generate a transaction and asks the user for authorization to Stake the ETH in their wallet. It also informs the user the smart contract it selected “is non custodial and is returning about 5% per year in yield and that you can withdraw your ETH at any time.” All within a simple natural language interface.
-
 For example if the “Stake My ETH” program is used by 10,000 Smart Agents to generate 700 ETH over 1 year for the owners of the Agents, the developer who contributed the “Stake My ETH” program would get 70 ETH worth of donations (10% of the yield generated).
 This way the Smart Agent developer community building up the capabilities of the Smart Agents directly benefits from the tools they build and share in rewards the Smart Agent generates. 
 
