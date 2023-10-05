@@ -1,4 +1,4 @@
-Morpheus Yellow Paper
+# Morpheus Yellow Paper
 
 This paper describes the technical details of the Morpheus full node, Morpheus Smart Contract, and related proofs.
 
