@@ -6,28 +6,28 @@ This paper describes the technical details of the Morpheus full node, Morpheus S
 On chain actions that need to be validated by the Morpheus smart contract.
 
 1. Fork of N2 Yield Smart Contract Redeployed On OP Stack
-- A) Lock ETH through Thorchain, donate yield to Coders + Compute Providers.
-- B) Calculate pro-rata of ETH donated 
+A) Lock ETH through Thorchain, donate yield to Coders + Compute Providers.
+B) Calculate pro-rata of ETH donated 
 
 2. Forever Provable Destruction of MTN:
-- A) Burn address or burn function for MTN tokens.
+A) Burn address or burn function for MTN tokens.
 
 3. ERC20 Template Contract For Issuing MTN
-- A) Mint MTN tokens daily to Capital + Community pro-rata to ETH yield donated.
-- B) Mint MTN tokens daily to Coders + Compute providers pro-rata to MTN burned via fees.
+A) Mint MTN tokens daily to Capital + Community pro-rata to ETH yield donated.
+B) Mint MTN tokens daily to Coders + Compute providers pro-rata to MTN burned via fees.
 
 4. Proof of Morpheus - Demonstrate Privacy, Open Source, & Safety
-- A) Publish list of audited Agents and their Smart Rank scores.
-- B) Publish list of audited LLMs and their Smart Rank scores.
-- C) Publish list of Smart Contracts & their Smart Rank scores.
-- D) Publish list of Prompts & their Smart Rank scores.
+A) Publish list of audited Agents and their Smart Rank scores.
+B) Publish list of audited LLMs and their Smart Rank scores.
+C) Publish list of Smart Contracts & their Smart Rank scores.
+D) Publish list of Prompts & their Smart Rank scores.
 
 5. Protection Funds
-- A) Distribute MTN & ETH in cases of hacks, errors, bugs, or other attacks that cause losses. 
-- B) Pre-defined set of scenarios for pay out. Policies for forking / roll backs in extreme cases.
-- B) Developers in charge of determining cases of attacks & their remedies. 
-- C) Funds for bug bounties / white hat hackers.
-- D) Funds for protection from Nation State actors.
+A) Distribute MTN & ETH in cases of hacks, errors, bugs, or other attacks that cause losses. 
+B) Pre-defined set of scenarios for pay out. Policies for forking / roll backs in extreme cases.
+C) Developers in charge of determining cases of attacks & their remedies. 
+D) Funds for bug bounties / white hat hackers.
+E) Funds for protection from Nation State actors.
 
 ## Morpheus Smart Contract Diagrams
 
