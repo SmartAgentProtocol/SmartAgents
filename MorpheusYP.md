@@ -35,16 +35,16 @@ Diagrams plus descriptions of the MTN minting & burning.
 Descriptions of the smart contracts required.
 Diagrams detailing the distribution of ETH. 
 
-Morpheus MTN Smart Contract Rewards Distribution
+### Morpheus MTN Smart Contract Rewards Distribution
 ![MorpheusSmartContractDiagram](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/1675fa8c-a780-4019-9be8-68837ffdb4f9)
 
-Morpheus MTN Distribution Diagram
+### Morpheus MTN Distribution Diagram
 ![MorpheusMTNDistributionUnitsDiagram](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/563c5f81-b16a-4e81-bab0-39e54f6cdac1)
 
-MTN Token Distribution Example of Day 1 and Day 2.
+### MTN Token Distribution Example of Day 1 and Day 2.
 ![Day1Day2MTNTokenDistribution](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/20131e40-ee09-48c3-89aa-0af65a92df98)
 
-MTN Token Distribution Pie Chart
+### MTN Token Distribution Pie Chart
 ![MTN Distribution Pie Chart](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/cb9d2e6f-2f1f-44ed-8e34-06babab2fa13)
 
 ## Morpheus Developer Tools and Tech Stack.
@@ -61,16 +61,16 @@ MTN Token Distribution Pie Chart
 
 ## Morpheus Full Node Diagrams for the Agent / LLMs For Web3 Actions. 
 
-Diagram shows the UX flow from user prompt to approval of Web3 action.
+### Diagram shows the UX flow from user prompt to approval of Web3 action.
 ![Morpheus UX Flow For Web3 Task](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/f91b3ce5-9ad9-43c1-86ef-289285220952)
 
-Diagram shows the Morpheus Local install version.
+### Diagram shows the Morpheus Local install version.
 ![MorpheusLocalDiagram](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/a0564914-cddb-42e4-b0f4-8c2310db6a66)
 
-Diagram shows the Morpheus P2P install version.
+### Diagram shows the Morpheus P2P install version.
 ![MorpheusP2PDiagram](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/a7eeb31f-3d38-4233-a45f-e9b91ad84ba2)
 
-Diagram shows the Morpheus Decentralized version.
+### Diagram shows the Morpheus Decentralized version.
 ![MorpheusDecentralized](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/1699f2de-cc18-42e8-a05c-32b3307baa20)
 
 ## Community
