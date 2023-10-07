@@ -3,10 +3,12 @@ Welcome to the Smart Agent Github & community. There are a ton of resources and 
 We are building a generalized protocol & network for connecting AI Agents to Smart Contracts that is completely open source & decentralized.
 We believe AGI is coming and the best way to have a positive outcome is to empower everyone with access to this expansion in intelligence.
 
-## General Resources:
-- White Paper: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/White%20Paper.md
-- Yellow Paper: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/YellowPaper.md
+## Getting Up to Speed On Smart Agents & Morpheus:
+- Smart Agents White Paper: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/White%20Paper.md
+- Smart Agents Yellow Paper: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/YellowPaper.md
 - Demo Web Application ChatWeb3: https://www.chatweb3.org/
+- Morpheus White Paper: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusWP.md
+- Morpheus Yellow Paper: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusYP.md
 
 ## Developer Resources:
 - SmartContractRank Algorithm: https://www.SmartContractRank.org/
