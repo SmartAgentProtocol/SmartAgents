@@ -10,12 +10,12 @@ We believe AGI is coming and the best way to have a positive outcome is to empow
 - Demo Web Application ChatWeb3: https://www.chatweb3.org/
 
 ## Developer Resources:
-- SDK for Avalanche Devs: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForAvalancheSmartAgents.md
-- SDK for Bitcoin Devs: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForBitcoinSmartAgents.md
-- SDK for Cosmos Devs: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForCosmosSmartAgents.md
-- SDK For Ethereum Devs: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForEthereumSmartAgents.md
-- SDK For Polygon Devs: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForPolygonSmartAgents.md
-- PromptRank API: https://www.promptrank.org/
+- SDK for Avalanche Devs **(Placeholder to be developed)**: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForAvalancheSmartAgents.md
+- SDK for Bitcoin Devs **(Placeholder to be developed)**: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForBitcoinSmartAgents.md
+- SDK for Cosmos Devs **(Placeholder to be developed)**: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForCosmosSmartAgents.md
+- SDK For Ethereum Devs **(Placeholder to be developed)**: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForEthereumSmartAgents.md
+- SDK For Polygon Devs **(Placeholder to be developed)**: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/SDKForPolygonSmartAgents.md
+- SmartContractRank Algorithm: https://www.SmartContractRank.org/
 - Register To Build Smart Agents For Clients: https://www.smartagency.ai/
 - Smart Agent Code For FrontEnd: https://github.com/SmartAgentProtocol/SmartAgents/tree/main/frontend
 - Smart Agent Code For BackEnd: https://github.com/SmartAgentProtocol/SmartAgents/tree/main/backend
