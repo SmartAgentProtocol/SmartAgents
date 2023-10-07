@@ -4,7 +4,7 @@
 The SmartContractRank algorithm calculates the “Smart Score” of each Smart Contract based on the number of transactions it has conducted, multiplied by its “Dapps Score”, multiplied by its “DeFi Score”. The resulting list of Smart Contracts is ranked with the highest Smart Score first, and the lowest Smart Score last. The output is used by the Smart Agent based on the user’s prompt to present a list of recommended Smart Contracts that can be interacted with.
 
 ## Step #1 (Before User Interaction):
-The cumulative number of transactions each Smart Contacts has verified on its primary blockchain is used to generate a “Transaction Score” for all the ranked Smart Contracts.
+The cumulative number of transactions each Smart Contract has verified on its primary blockchain is used to generate a “Transaction Score” for all the ranked Smart Contracts.
 - Contract A = Has 2 Transactions
 - Contract B = Has 3 Transactions
 - Contract C = Has 4 Transactions
