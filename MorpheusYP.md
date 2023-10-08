@@ -1,7 +1,7 @@
 # Morpheus Yellow Paper
 
 This paper describes the technical details of the Morpheus full node, Morpheus Smart Contract, and related proofs.
-Presented as written in the whitepaper contributed by the anonymous developers Morpheus, Trinity & Neo.
+Presented as written in the whitepaper contributed by the anonymous developers Morpheus, Trinity & Neo. Link to the whitepaper here: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusWP.md
 
 ## Morpheus Smart Contracts & Oracle Descriptions
 On chain actions that need to be validated by the Morpheus smart contract.
