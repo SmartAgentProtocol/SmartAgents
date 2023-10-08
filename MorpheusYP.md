@@ -45,6 +45,17 @@ Diagrams detailing the distribution of ETH.
 ### MTN Token Distribution Example of Day 1 and Day 2.
 ![Day1Day2MTNTokenDistribution](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/20131e40-ee09-48c3-89aa-0af65a92df98)
 
+### Example Distribution Calculation For Address 0x123 ETH Donator
+
+### Step One
+![Diagram1ofETHDontator](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/fead528c-d628-449e-a3a3-2f53904f4a3d)
+
+### Step Two
+![Diagram2ETHPercentage](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/50580612-686f-4eaa-bd96-84efe0074838)
+
+### Step Three
+![Diagram3ofMTNRewarded](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/e076ced4-9ba7-484d-8edd-3a9ff6d41c5b)
+
 ### MTN Token Distribution Pie Chart
 ![MTN Distribution Pie Chart](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/cb9d2e6f-2f1f-44ed-8e34-06babab2fa13)
 
