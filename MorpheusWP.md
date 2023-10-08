@@ -1,4 +1,4 @@
-<img width="400" alt="Morepheus Logo 42 Font Bold MTN Binary" src="https://github.com/MorpheusAIs/Paper/assets/1563345/1e15f574-2c0c-4382-b0d9-8ff4661d2b4f">
+<img width="300" alt="Morepheus Logo 42 Font Bold MTN Binary" src="https://github.com/MorpheusAIs/Paper/assets/1563345/1e15f574-2c0c-4382-b0d9-8ff4661d2b4f">
 
 # Morpheus
 ## A Network For Powering Smart Agents
@@ -9,6 +9,8 @@ Published - September 2nd 2023
 The Smart Agent concept of connecting LLMs and AI Agents to wallets, Dapps, & smart contracts promises to open the world of Web3 to everyone. Chatting in normal language with your Smart Agent and having it understand the question or task, is similar to how Google's search engine opened the early internet up to the general public.
 
 To make Smart Agents accessible to everyone and increase decentralization we propose a network & fairly launched token for incentivizing all four of the key contributors to their operation. Namely, the community of users, coders contributing to the Morpheus software / agents, capital providers funding development / operations and those suppling computation, storage and bandwidth. It has been well shown by the history of Bitcoin and Ethereum that free & open competition for scarce digital tokens can provide scalable infrastructure for a public blockchain over long periods of time.
+
+For the technical yellow paper see this link: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusYP.md
 
 ## Context & History
 Incumbents such as OpenAI, Microsoft, and Google are running close sourced large language models, charging customers license fees, and monetizing customer data. These models are censored, fragile, and operate in walled gardens. There is a strong demand for a open source large language model available for free. LlaMa, Falcon, and other open source LLMs have recently been released and are rapidly approaching the accuracy of their close sourced competitors.
