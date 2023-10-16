@@ -52,6 +52,8 @@ The block reward will start at 14,400 MOR per day and then decline by 2.46899470
 - 3,456 tokens for data. Proof of feedback on prompts, agents, and Morpheus.
 With the remainder set aside for protection resources: 576 tokens per day for that purpose.
 
+![SimplifiedMORDiagram5 png ](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/d6f6d001-a4b7-48e2-8ccb-3c8a3c0a35fb)
+
 ## The Utility of The MOR Token
 The objective is for MOR to provide broad utility in many of the functions of the Morpheus network. As a result the use of the MOR token offers an on chain accounting mechanism to calculate rewards based on real usage of the software.
 
