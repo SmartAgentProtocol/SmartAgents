@@ -43,16 +43,16 @@ Diagrams detailing the distribution of ETH.
 ![Untitled spreadsheet - Google Sheets 2023-10-15 13-28-08](https://github.com/MorpheusAIs/Morpheus/assets/76454555/6ff7869d-bbd6-46b5-8673-6a59b75906e1)
 
 
-## Example Distribution Calculation For Address 0x123 ETH Donator
+## Example Distribution Calculation For Address 0x123 ETH Contributor
 
 ### Step One
 ![Diagram1ofETHDontator](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/fead528c-d628-449e-a3a3-2f53904f4a3d)
 
 ### Step Two
-![Diagram2ETHPercentage](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/50580612-686f-4eaa-bd96-84efe0074838)
+![ETHGivenDiagram2](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/a69d384c-ee18-4985-b2a6-83fc7e05be24)
 
 ### Step Three
-![MORForCapitalDiagram](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/32dfe643-cee2-411a-b36a-1daa7be668a4)
+![Diagram3ForETHGiven](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/6174fa74-f2ca-446c-89d4-3df12dd23c33)
 
 ## Example Distribution Calculation For Address 0x123 Compute Provider
 
