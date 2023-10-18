@@ -85,6 +85,18 @@ The value of the ETH yield is converted weekly into MOR and sent to all compute 
 
 Note this isn't a timeline. Rather each phase is a description of part of the life cycle. It may take years for the community to grow and mature through each phase and the block reward expires after about 16 years. This lengthy distribution schedule is intended to give time for the tokens to be rewarded on a very broad basis globally. Also the smooth daily decline in block rewards over many years gives all participants time to achieve scale and transition from the early subsidized rewards to operating solely by the fees they earn.
 
+![MOREmissionSchedule](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/1fedc96c-a497-4ee4-9fff-c13f4afdf3cd)
+
+## Tail Emissions of MOR
+Ever since Bitcoin's launch people have argued about "what will happen when the block rewards finally stop?" To avoid this unhelpful debate in the context of Morpheus and to continue aligning new coders, community, compute & capital providers long into the future, we propose a "tail emission" of MOR tokens. This MOR tail emission will start after the last MOR tokens have been emitted on day 5,833 of the distribution schedule. 
+
+The tail emission will be calculated by reviewing the number of burned MOR tokens the past 5,833 days and setting the tail emission value to be 50% of the burned amount. This tail emission value will be emitted the next 5,833 day period. But in no case will the next emission be greater than 1,153 MOR per day. For example if 13,440,000 MOR were burned during the initial emission schedule, then 6,720,000 MOR can be rewarded in the second 5,833 day period. Which would be 1,152 MOR per day. Which works out to about 1% per of the total MOR emitted.
+
+After the second 5,833 day period is complete, this process will repeat. The tail emission will be calculated again by reviewing the number of burned MOR tokens the past 5,833 days and setting the tail emission value to be 50% of the burned amount. This tail emission value will be emitted the next 5,833 day period. But in no case will the next emission be greater than 576.5 MOR per day (50% of the first emission limit). And so on forever into the future.
+
+NOTE: This does not alter the nature of the hard Supply Cap of 42 Million MOR. 
+Since the next emission schedule is by definition only a part of the MOR burned, the MOR token can only become ever more scarce with each 5,833 day period.
+
 ## Proof of Community, Code, Compute & Capital
 The path for all Proofs in Morpheus starts with downloading a copy of the Morpheus full node. This includes a local copy of the open source large language model on their machine. Once running a full node the user is in a position to contribute to any of the four functions of the network.
 
@@ -141,7 +153,7 @@ Recognizing ahead of time that software is never perfect and setting aside 4% of
 
 For broader protection an integration with Nexus Mutual or similar smart contract / decentralized protection network could be considered to cover edge cases with agents / smart contracts that want to be included in a Morpheus Agent Store or better ranked by the SmartContractRank algorithm. 
 
-Storage For Persistence & Wallets For Recovery
+**Storage For Persistence & Wallets For Recovery**
 Rather than store personal data in the Morpheus network itself, which would be cost prohibitive and a centralizing force, individuals will hold the private keys controlling access to their data, prompts & wallet. The data itself will be stored using the IPFS standard and the Filecoin network for decentralized longterm storage. Leveraging the Filecoin EVM and DeFi for yield a permanent recurring storage can be arranged. Alternatively users can pay annually ENS style for storage. The approach and keeping the private Web3 wallet as the key for movement / recovery of this data to different devices as the user changes computers or phones.
 
 ## Morpheus Tech Stack, Smart Contract & Development
