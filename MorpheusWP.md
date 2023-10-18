@@ -42,6 +42,8 @@ Coders - Provide the intelligence to use the data, capital and compute.
 
 The MOR Token Supply is limited to a maximum of 42,000,000 tokens that will ever exist. The distribution will start with all four groups earning the tokens by providing forms of proof of work (labor) and proof of Stake (capital) to the network. No pre-mine. No early token sale. Just fair launch.
 
+![MOREmissionsCurve2](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/b4639d78-1de5-4198-bf6a-502e724ea404)
+
 The block reward will start at 14,400 MOR per day and then decline by 2.468994701 MOR each day, until the reward reaches 0 on day 5,833. By that time (about 16 years from now) provided Morpheus is in wide use, the fees will have taken over as the primary incentive. Fees paid to users for their data, fees to compute providers, fees to capital providers and fees to coders.
 
 **42 Million supply cap for the MOR tokens.** 
