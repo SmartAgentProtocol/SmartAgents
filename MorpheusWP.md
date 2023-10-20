@@ -14,7 +14,7 @@ To make Smart Agents accessible to everyone and increase decentralization of the
 
 For the technical yellow paper see this link: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusYP.md
 
-![MorpheusNetworkDiagram](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/4c880782-e139-41e8-b8ba-78b535a6ea04)
+![MorpheusNetworkDiagram](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/96b8050f-a8d9-43c4-9f99-7813f2e0d917)
 
 ## Context & History
 Incumbents such as OpenAI, Microsoft, and Google are running close sourced large language models, charging customers license fees, and monetizing customer data. These models are censored, fragile, and operate in walled gardens. There is a strong demand for a open source large language model available for free. LlaMa, Falcon, and other open source LLMs have recently been released and are rapidly approaching the accuracy of their close sourced competitors.
@@ -172,6 +172,8 @@ The pro-rata MOR transaction fees burned by each Data Provider serves as proof o
 For example if there are 100 Data Providers day 1 when the network launches, then each one gets a pro-rata reward based on the amount of MOR they have burned via fees. In this case presuming each of the 100 data providers burned 100 MOR, then 1% of the 3,456 MOR tokens each day = 34.56 MOR.
 
 To qualify to receive Compute requests a Data Provider's address must HODL MOR tokens. Their data provided can be rewarded pro-rata to the MOR they hodl.
+
+![MorpheusUserDiagram](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/85bed089-9613-46a3-a324-2259f18e7e5d)
 
 ## Morpheus Rewards Delivered by Smart Contract On Ethereum Layer 2 
 Note that Morpheus does not need to set aside MOR rewards for blockchain consensus or transaction execution on a distributed ledger thanks to building on Ethereum's 2nd layer "OP Mainnet" (formally known as Optimism). Yield from the ETH locked by users and capital providers will cover the gas fees needed for the Smart Agents and Morpheus Smart Contracts to operate. This selection vastly simplifies the Morpheus software as developing consensus and securing transactions is a very time and resource intensive process.
