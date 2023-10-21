@@ -14,7 +14,7 @@ To make Smart Agents accessible to everyone and increase decentralization of the
 
 For the technical yellow paper see this link: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusYP.md
 
-![MorpheusNetworkDiagram3](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/66b1b40e-8b79-4809-947c-a768f53f9243)
+![MorpheusNetworkDiagram5](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/7c7a5f87-1dc4-4aad-9653-8abb2d784f73)
 
 ## Context & History
 Incumbents such as OpenAI, Microsoft, and Google are running close sourced large language models, charging customers license fees, and monetizing customer data. These models are censored, fragile, and operate in walled gardens. There is a strong demand for a open source large language model available for free. LlaMa, Falcon, and other open source LLMs have recently been released and are rapidly approaching the accuracy of their close sourced competitors.
