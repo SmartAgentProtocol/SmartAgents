@@ -3,6 +3,16 @@
 This paper describes the technical details of the Morpheus full node, Morpheus Smart Contract, and related proofs.
 Presented as written in the whitepaper contributed by the anonymous developers Morpheus, Trinity & Neo. Link to the whitepaper here: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusWP.md
 
+## Local Version 0.0.1 of Morpheus is live at:
+Part 1 Download: Morpheus Version 0.0.1
+https://drive.google.com/file/d/1vquJDNejJ2AGvYCCsi9QldMqtJhrGsNI/view?usp=sharing
+
+Part 2 Download: Ollama for Mac or Linux
+https://ollama.ai/download
+
+First interaction with Morpheus October 22nd 2023.
+![FirstInteractionWithMorpheus20231022](https://github.com/MorpheusAIs/Morpheus/assets/1563345/35509f3a-4346-4f58-bb60-f7881fd10f7e)
+
 ## Morpheus Smart Contracts & Oracle Descriptions
 On chain actions that need to be validated by the Morpheus smart contract.
 
