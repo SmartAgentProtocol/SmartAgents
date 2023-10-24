@@ -4,8 +4,10 @@ This paper describes the technical details of the Morpheus full node, Morpheus S
 Presented as written in the whitepaper contributed by the anonymous developers Morpheus, Trinity & Neo. Link to the whitepaper here: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusWP.md
 
 ## Local Version 0.0.1 of Morpheus is live at:
-Part 1 Download: Morpheus Version 0.0.1
-https://bafybeifqgx33c6caindovmde6aah56lqhqaf2cuwrwplvkrjbiisxxlxou.ipfs.dweb.link/
+Part 1: Morpheus Version 0.0.1
+- Download from Filecoin: https://bafybeifqgx33c6caindovmde6aah56lqhqaf2cuwrwplvkrjbiisxxlxou.ipfs.dweb.link/
+- Download from Google: https://drive.google.com/file/d/1vquJDNejJ2AGvYCCsi9QldMqtJhrGsNI/view?usp=sharing
+- Hash of File using SHA 256: 659ada97cef6eaa99fbc06310380594bbd5b00d077ffff77b7ee0251c1bcd869
 
 Part 2 Download: Ollama for Mac or Linux
 https://ollama.ai/download
