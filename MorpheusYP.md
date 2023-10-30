@@ -4,13 +4,15 @@ This paper describes the technical details of the Morpheus full node, Morpheus S
 Presented as written in the whitepaper contributed by the anonymous developers Morpheus, Trinity & Neo. Link to the whitepaper here: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusWP.md
 
 ## Local Version 0.0.1 of Morpheus is live at:
-Part 1: Morpheus Version 0.0.1
-- Download from Filecoin: https://bafybeifqgx33c6caindovmde6aah56lqhqaf2cuwrwplvkrjbiisxxlxou.ipfs.dweb.link/
-- Download from Google: https://drive.google.com/file/d/1vquJDNejJ2AGvYCCsi9QldMqtJhrGsNI/view?usp=sharing
-- Hash of File using SHA 256: 659ada97cef6eaa99fbc06310380594bbd5b00d077ffff77b7ee0251c1bcd869
+Part 1: Morpheus Version 0.0.2
+- Filecoin:  https://bafybeicdggdftn5j7njdmh6sojehb2kq767aaiuy2l6jtwnuin3b2nmkoa.ipfs.dweb.link/
+- Google:  https://drive.google.com/file/d/1Pe8fbS9OWxUIVj0j6ng1os-wFqj8b5NS/view?usp=sharing
+- Validation Hash Using Sha 256 for Morpheus-0.0.2.dmg: 6bd3ff97965a36f525c325ca968dcdd44d134723a9226af9db4d35f60f7264cc
 
 Part 2 Download: Ollama for Mac or Linux
 https://ollama.ai/download
+
+Ollama Install instructions: https://github.com/MorpheusAIs/Morpheus/blob/main/ollama_instructions_in_pictures.md 
 
 First interaction with Morpheus October 22nd 2023.
 ![FirstInteractionWithMorpheus20231022](https://github.com/MorpheusAIs/Morpheus/assets/1563345/35509f3a-4346-4f58-bb60-f7881fd10f7e)
