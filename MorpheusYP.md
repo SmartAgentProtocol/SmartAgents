@@ -4,13 +4,10 @@ This paper describes the technical details of the Morpheus full node, Morpheus S
 Presented as written in the whitepaper contributed by the anonymous developers Morpheus, Trinity & Neo. Link to the whitepaper here: https://github.com/SmartAgentProtocol/SmartAgents/blob/main/MorpheusWP.md
 
 ---------
-**Part 1 Download: Morpheus Version 0.0.4 for Mac**
-- Download from Google Drive: https://drive.google.com/file/d/1uCdJ2RtKfabMPISqe4U-Ru2e_ojtY8WG/view?usp=sharing
-- SHA 256 hash for validation: feadc09bd41387d414f896e4adaa93fd5bbf03ac64737975a00c55860852ec7f  
-- Version: Morpheus-0.0.4-x64.dmg
-
-**Part 2 Download: Ollama for Mac**
-https://ollama.ai/download
+**Part 1 Download: Morpheus Version 0.0.5 for Mac**
+- Download from Google Drive: https://drive.google.com/file/d/1x-wR4HWjKqT_g6VRjrWPXu3rVm9ukOc9/view?usp=sharing
+- SHA 256 hash for validation: 9092d543023fb95086cf4a7039d42cbcbbdf5283d670c4de6396b3d89e57b064  
+- Version: Morpheus-0.0.5-x64.dmg
 
 ---------
 **Part 1 Download: Morpheus Version 0.0.4 for Linux Debian**
