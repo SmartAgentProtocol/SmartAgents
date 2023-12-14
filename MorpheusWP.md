@@ -58,7 +58,7 @@ The block reward will start at 14,400 MOR per day and then decline by 2.46899470
 - 3,456 tokens for capital. Proof stETH yield contributed, 50% swapped for MOR & the rest locked in the AMM as a Liquidity Provider. 
 - 3,456 tokens for community. Proof of building front end applications & tools that engage users.
 With the remainder set aside for protection resources: 576 tokens per day for that purpose.
-![5050Split2](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/85b4214f-36d7-46ea-a991-7efafa4722e2)
+![5050version3](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/1c8b23e6-3b10-4c68-948b-c8e93e6ac93e)
 
 ## The Utility of The MOR Token
 The objective is for MOR to provide broad utility in many of the functions of the Morpheus network. As a result, the use of the MOR token offers an on-chain accounting mechanism to calculate rewards based on real usage of the software.
