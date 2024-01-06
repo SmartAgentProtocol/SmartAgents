@@ -58,7 +58,7 @@ The block reward will start at 14,400 MOR per day and then decline by 2.46899470
 - 3,456 tokens for capital. Proof stETH yield contributed, 50% swapped for MOR & the rest locked in the AMM as a Liquidity Provider. 
 - 3,456 tokens for community. Proof of building front end applications & tools that engage users.
 With the remainder set aside for protection resources: 576 tokens per day for that purpose.
-![5050version3](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/1c8b23e6-3b10-4c68-948b-c8e93e6ac93e)
+![5050version3](https://github.com/MorpheusAIs/Morpheus/assets/1563345/c9fe763f-d4e4-4069-b9c9-75e0a777c3ad)
 
 ## The Utility of The MOR Token
 The objective is for MOR to provide broad utility in many of the functions of the Morpheus network. As a result, the use of the MOR token offers an on-chain accounting mechanism to calculate rewards based on real usage of the software.
@@ -118,12 +118,10 @@ Below is shown the unified MOR Supply Curve showing the first 5,833 day period a
 ![MORSupplyCurve20231019](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/8994c389-dad1-4e46-9b63-e048da8ef172)
 
 ## Proof of Community, Code, Compute & Capital
-The path for all Proofs in Morpheus starts with downloading a copy of the Morpheus full node. This includes a local copy of the open-source large language model on their machine. Once running a full node the user is in a position to contribute to any of the four functions of the network.
-
-The Morpheus full node comes with a wallet or the user can connect their existing wallet. This enables the user to sign and send transactions recommended by their Smart Agent.
+The Morpheus full node comes with a wallet or the user can connect their existing wallet. This enables the user to sign and send transactions recommended by their Smart Agent. So users will be able to participate in the proofs through the Morpheus software. However Capital Providers are not required to have a full node for example. They can interact directly with the Smart Contracts on Ethereum / Arbitrum using stETH.
 
 ## Capital Proof & Reward:
-The definition of a Capital Provider is someone who has downloaded the full node and connected their wallet and locked at least 0.01 ETH in a yielding smart contract. This Capital Provider Smart Contract will provide 50% of the stETH yield produced to the Morpheus swap function. The swap buys the MOR tokens from an Automated Market Maker (AMM) then locks it into the AMM pool and the other 50% of the stETH yield gets locked into the AMM as a Liquitiy Provider. This will provide liquidity to all those coders, community members and compute providers. 
+The definition of a Capital Provider is someone provides stETH yield to the Morpheus network which becomes Protocol Owned Liquidity. This Capital Provider Smart Contract will provide 50% of the stETH yield produced to the Morpheus swap function. The swap buys the MOR tokens from an Automated Market Maker (AMM) then added it into the AMM pool and the other 50% of the stETH yield gets locked into the AMM as a Liquitiy Provider. This will provide liquidity to all those coders, community members and compute providers. 
 
 All stETH yield earned from your deposit is converted into protocol-owned liquidity (PoL). The yield remains as PoL indefinitely, but you can withdraw your stETH whenever.
 
@@ -178,10 +176,10 @@ The pro-rata MOR transaction fees burned by each Community Builder serves as pro
 For example, if there are 100 Community Builders on day 1 when the network launches, then each one gets a pro-rata reward based on the amount of MOR they have burned via fees. In this case, presuming each of the 100 Community Builders burned 100 MOR, then 1% of the 3,456 MOR tokens each day = 34.56 MOR.
 
 ## Morpheus User Diagram
-![UpdatedDiagram2UserFlow](https://github.com/SmartAgentProtocol/SmartAgents/assets/1563345/38723d19-fd89-452d-af39-0d4c85cb501f)
+![UpdatedDiagram2UserFlow](https://github.com/MorpheusAIs/Morpheus/assets/1563345/a02468a7-9284-4ce5-b7e3-f32f476ff9f1)
 
 ## Morpheus Rewards Delivered by Smart Contract On Ethereum Layer 2 
-Morpheus Tokens (MOR) will be originally awarded on the the Ethereum Layer 1, and there will be a wrapped MOR tokne (wMOR) that exists on Arbitrum for the purpose of payments and other MOR utility related actions.
+Morpheus Tokens (MOR) will be originally awarded on the the Ethereum Layer 1, and there will be a wrapped MOR token (wMOR) that exists on Arbitrum for the purpose of payments and other MOR utility related actions.
 
 Note that Morpheus does not need to set aside MOR rewards for blockchain consensus or transaction execution on a distributed ledger thanks to building on Ethereum and 2nd layer Arbitrum. 
 
