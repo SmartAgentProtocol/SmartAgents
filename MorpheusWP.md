@@ -72,8 +72,8 @@ Capital - ETH locked in a smart contract that generates yield (ETH in a stETH Li
 
 - Capital, The value of their ETH yield will be calculated against all ETH yield contributed and MOR yield rewarded to them pro-rata.
 - Compute, Compute providers receive MOR for the user prompts they reply to. 
-- Coders, Coders recieve MOR for the contributions they make to the Morpheus software which are merged.
-- Community, Community builders recieve MOR for the front ends, tools, usage, & value they bring into the Morpheus network.
+- Coders, Coders receive MOR for the contributions they make to the Morpheus software which are merged.
+- Community, Community builders receive MOR for the front ends, tools, usage, & value they bring into the Morpheus network.
 
 ## Mid-term: As MOR Gains Wider Circulation
 - Capital, A balance between block rewards and fees earned develop. 
